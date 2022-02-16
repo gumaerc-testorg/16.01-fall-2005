@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Systems/Labs 04
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Team 5: Pre-Flight Interview'
 uid: f912f9c0-4e2b-bbbb-b9af-dff88f60325a

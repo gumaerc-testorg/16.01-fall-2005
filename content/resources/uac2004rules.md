@@ -6,8 +6,12 @@ description: This resource contains information on rules for the end of semester
   to achieve the highest score. To optimize their system, each team must evaluate
   trades between payload, endurance, maneuverability and durability, subject to the
   constraints and objectives of the aerial competition.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/9953fd4ea08ace5204473af434e6f47a_uac2004rules.pdf
+file: /media/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/9953fd4ea08ace5204473af434e6f47a_uac2004rules.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Systems/Labs 04
+parent_type: CourseSection
 resourcetype: Document
 title: uac2004rules.pdf
 uid: 9953fd4e-a08a-ce52-0447-3af434e6f47a

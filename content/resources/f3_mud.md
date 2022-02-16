@@ -2,8 +2,12 @@
 content_type: resource
 description: This resource provides information on the topic of Aerodynamic Forces
   and Moments.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/77c1123b1f377d2a216a7fa02bc229fe_f3_mud.pdf
+file: /media/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/77c1123b1f377d2a216a7fa02bc229fe_f3_mud.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Fluid Mechanics
+parent_type: CourseSection
 resourcetype: Document
 title: f3_mud.pdf
 uid: 77c1123b-1f37-7d2a-216a-7fa02bc229fe

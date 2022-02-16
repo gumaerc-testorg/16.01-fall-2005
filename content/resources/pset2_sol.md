@@ -5,8 +5,13 @@ description: 'This file includes solutions for problems on pressure, work done, 
   compression, constant volume heat addition,
 
   constant pressure expansion, and isothermal compression.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/19534c4c4567eadd4b27ca741bf5c129_pset2_sol.pdf
+file: /media/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/19534c4c4567eadd4b27ca741bf5c129_pset2_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: pset2_sol.pdf
 uid: 19534c4c-4567-eadd-4b27-ca741bf5c129

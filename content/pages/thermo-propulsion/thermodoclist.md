@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Thermodynamics and Propulsion
+parent_type: CourseSection
 parent_uid: 05b2ba63-43e4-3028-bad4-cdf50e0b363a
 title: Thermodynamics/Propulsion Concept Questions
 uid: 218fb13a-8d8e-09a5-ecfb-2f437ed59ed4

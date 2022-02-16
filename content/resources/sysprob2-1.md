@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: 'This file contains questions for the topic: Ballistic Trajectory Calculation.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/5fa5778c110999685aabac2d08cfcc03_sysprob2.pdf
+file: /media/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/5fa5778c110999685aabac2d08cfcc03_sysprob2.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Systems/Labs 06
+parent_type: CourseSection
 resourcetype: Document
 title: sysprob2.pdf
 uid: 5fa5778c-1109-9968-5aab-ac2d08cfcc03

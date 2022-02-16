@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Fluid Mechanics
 uid: 6a5f667b-6fca-f068-0ec8-b203122154de
 ---

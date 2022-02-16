@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Materials/Structures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Sample Lecture M15: Yielding and Plasticity'
 uid: de59a8b8-5398-39f8-f3b6-04e755fb6879

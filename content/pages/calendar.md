@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 0f11e3a8-8575-7742-68b1-9fbbe9ada2d2
 ---
@@ -201,7 +203,7 @@ FRIDAY
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 1
 {{< thclose >}}
 
@@ -293,7 +295,7 @@ S/L1 out
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 2
 {{< thclose >}}
 
@@ -383,7 +385,7 @@ S/L1 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 3
 {{< thclose >}}
 
@@ -473,7 +475,7 @@ S/L2 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 4
 {{< thclose >}}
 
@@ -563,7 +565,7 @@ S/L3 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 5
 {{< thclose >}}
 
@@ -653,7 +655,7 @@ S/L4 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 6
 {{< thclose >}}
 
@@ -743,7 +745,7 @@ S/L5 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 7
 {{< thclose >}}
 
@@ -833,7 +835,7 @@ S/L6 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 8
 {{< thclose >}}
 
@@ -923,7 +925,7 @@ S/L7 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 9
 {{< thclose >}}
 
@@ -1013,7 +1015,7 @@ S/L8 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 10
 {{< thclose >}}
 
@@ -1103,7 +1105,7 @@ S/L9 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 11
 {{< thclose >}}
 
@@ -1193,7 +1195,7 @@ S/L10 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 12
 {{< thclose >}}
 
@@ -1283,7 +1285,7 @@ HW 11 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 13
 {{< thclose >}}
 
@@ -1373,7 +1375,7 @@ S/L11 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 14
 {{< thclose >}}
 
@@ -1463,7 +1465,7 @@ HW 13 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 15
 {{< thclose >}}
 
@@ -1553,7 +1555,7 @@ HW 15 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Finals Week
 {{< thclose >}}
 
@@ -1673,7 +1675,7 @@ FRIDAY
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 1
 {{< thclose >}}
 
@@ -1766,7 +1768,7 @@ S/L1 out
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 2
 {{< thclose >}}
 
@@ -1856,7 +1858,7 @@ S/L1 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 3
 {{< thclose >}}
 
@@ -1948,7 +1950,7 @@ S/L2 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 4
 {{< thclose >}}
 
@@ -2038,7 +2040,7 @@ S/L3 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 5
 {{< thclose >}}
 
@@ -2128,7 +2130,7 @@ S/L4 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 6
 {{< thclose >}}
 
@@ -2218,7 +2220,7 @@ S/L5 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 7
 {{< thclose >}}
 
@@ -2308,7 +2310,7 @@ S/L6 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 8
 {{< thclose >}}
 
@@ -2398,7 +2400,7 @@ S/L7 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 9
 {{< thclose >}}
 
@@ -2488,7 +2490,7 @@ S/L8 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 10
 {{< thclose >}}
 
@@ -2578,7 +2580,7 @@ S/L9 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 11
 {{< thclose >}}
 
@@ -2670,7 +2672,7 @@ S/L10 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 12
 {{< thclose >}}
 
@@ -2760,7 +2762,7 @@ S/L11 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 13
 {{< thclose >}}
 
@@ -2850,7 +2852,7 @@ HW 12 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 14
 {{< thclose >}}
 
@@ -2940,7 +2942,7 @@ HW 14 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Finals Week
 {{< thclose >}}
 

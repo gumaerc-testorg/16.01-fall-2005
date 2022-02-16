@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: Handwritten lecture notes.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/9c181b82d966f0d3dedc33b7299c66d0_s15_lec.pdf
+file: /media/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/9c181b82d966f0d3dedc33b7299c66d0_s15_lec.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Signals and Systems
+parent_type: CourseSection
 resourcetype: Document
 title: s15_lec.pdf
 uid: 9c181b82-d966-f0d3-dedc-33b7299c66d0

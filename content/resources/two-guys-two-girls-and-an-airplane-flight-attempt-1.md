@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Systems/Labs 04
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Two Guys, Two Girls and an Airplane: Flight Attempt 1'
 uid: 0687a2e3-cf14-d39e-08b5-69cae4a1664b

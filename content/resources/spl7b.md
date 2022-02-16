@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This file contains notes for airfoil characterization.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/09d62c2fdbbc932ac0d350b4849551e5_spl7b.pdf
+file: /media/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/09d62c2fdbbc932ac0d350b4849551e5_spl7b.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Systems/Labs 06
+parent_type: CourseSection
 resourcetype: Document
 title: spl7b.pdf
 uid: 09d62c2f-dbbc-932a-c0d3-50b4849551e5

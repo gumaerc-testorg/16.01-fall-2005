@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Systems/Labs 04
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Team Double-Stuft Reduced-Fat Oreos: Post-Flight Interview'
 uid: 4637c9e2-0fe7-65a7-1adc-975fab0ade8e

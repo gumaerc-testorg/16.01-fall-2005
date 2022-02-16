@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: CourseSection
 title: Systems/Labs 04
 uid: 87e8f47c-351c-ccd4-50e9-b5e03c5bbee2
 videos:

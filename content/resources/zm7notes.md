@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource based on constitutive behavior and compatibility.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/01cc8bc2ab8191c3fde969350611bb71_zm7notes.pdf
+file: /media/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/01cc8bc2ab8191c3fde969350611bb71_zm7notes.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Materials/Structures
+parent_type: CourseSection
 resourcetype: Document
 title: zm7notes.pdf
 uid: 01cc8bc2-ab81-91c3-fde9-69350611bb71

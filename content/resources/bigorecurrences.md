@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/9ea490a9e30d004f9a24f4151b05749b_bigorecurrences.pdf
+file: /media/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/9ea490a9e30d004f9a24f4151b05749b_bigorecurrences.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Computers and Programming
+parent_type: CourseSection
 resourcetype: Document
 title: bigorecurrences.pdf
 uid: 9ea490a9-e30d-004f-9a24-f4151b05749b

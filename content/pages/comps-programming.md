@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Computers and Programming
 uid: 34c4c991-4bb5-d251-50ee-34713d7b7e3e
 ---

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Thermodynamics and Propulsion
+parent_type: CourseSection
 parent_uid: 05b2ba63-43e4-3028-bad4-cdf50e0b363a
 title: Reflective Memo from Fall 1999
 uid: e6ee1b83-843e-1b23-ec41-fdacb7e3416a
@@ -153,7 +156,7 @@ other
 
 ### A. Key Points from Muddiest Part of Lecture Cards
 
-1.  Why pexternal vs. psystem for the definition of work. There is a good explanation of this in Levenspiel. **Action:** Put explanation into prepared lecture notes.
+1.  Why p{{< sub "external" >}} vs. p{{< sub "system" >}} for the definition of work. There is a good explanation of this in Levenspiel. **Action:** Put explanation into prepared lecture notes.
 2.  Physical meaning of enthalpy. **Action**: Clarify this in the notes.
 3.  Isothermal vs. quasi-static, adiabatic processes. The turn-to-partner exercise on this is good. **Action:** Include this example in the notes next year.
 4.  Shaft work vs. flow work. The sketch + explanation I do in class seems good. **Action:** Need to put this in the prepared lecture notes.

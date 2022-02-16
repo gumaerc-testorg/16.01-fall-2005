@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This file contains the system problem based on rover software design.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/527df5181c6beafec2309cc655845fc5_sysprob6.pdf
+file: /media/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/527df5181c6beafec2309cc655845fc5_sysprob6.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Systems/Labs 06
+parent_type: CourseSection
 resourcetype: Document
 title: sysprob6.pdf
 uid: 527df518-1c6b-eafe-c230-9cc655845fc5

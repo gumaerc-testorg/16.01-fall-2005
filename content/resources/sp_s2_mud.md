@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: Review questions and answers.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/4f45097e6388f3db121d262bc0fb1bd0_sp_S2_mud.pdf
+file: /media/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/4f45097e6388f3db121d262bc0fb1bd0_sp_S2_mud.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Signals and Systems
+parent_type: CourseSection
 resourcetype: Document
 title: sp_S2_mud.pdf
 uid: 4f45097e-6388-f3db-121d-262bc0fb1bd0

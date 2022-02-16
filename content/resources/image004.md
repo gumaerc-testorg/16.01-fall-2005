@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/f4d7471cf7a79040ed1ab7da606ff9b0_image004.gif
+file: /media/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/f4d7471cf7a79040ed1ab7da606ff9b0_image004.gif
 file_type: image/gif
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Thermodynamics and Propulsion
+parent_type: CourseSection
 resourcetype: Image
 title: image004.gif
 uid: f4d7471c-f7a7-9040-ed1a-b7da606ff9b0

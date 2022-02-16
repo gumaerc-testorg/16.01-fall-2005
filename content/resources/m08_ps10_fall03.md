@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains a problem based on the relationship between applied
   load and the deflection point.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/eac7f7bce0fb7e6bb1cca9a8b715edd7_m08_ps10_fall03.pdf
+file: /media/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/eac7f7bce0fb7e6bb1cca9a8b715edd7_m08_ps10_fall03.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: m08_ps10_fall03.pdf
 uid: eac7f7bc-e0fb-7e6b-b1cc-a9a8b715edd7

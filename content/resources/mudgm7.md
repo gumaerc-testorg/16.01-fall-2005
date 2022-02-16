@@ -3,8 +3,12 @@ content_type: resource
 description: This resource contains review questions and answers based on re-examining
   derivation of shear stress-shear force equation from point of view of equilibrium
   of a partial section of the beam.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/8f22587b2f6ab55f58aad8bc9894ab52_mudgm7.pdf
+file: /media/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/8f22587b2f6ab55f58aad8bc9894ab52_mudgm7.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Materials/Structures
+parent_type: CourseSection
 resourcetype: Document
 title: mudgm7.pdf
 uid: 8f22587b-2f6a-b55f-58aa-d8bc9894ab52

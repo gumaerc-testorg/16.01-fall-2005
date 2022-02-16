@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Thermodynamics and Propulsion
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Sample Lecture P9: Energy Exchange with Moving Blades'
 uid: 859bdc12-0c88-d3d9-23d8-bd8c920b9fd8
