@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a6eb2151-6f41-806d-94ff-dc83eb5f4337
 resourcetype: Document
 title: s22_ps14_spring04.pdf
 uid: b7d52dd8-f3a5-ba15-1f4c-74e64ecd8b0a

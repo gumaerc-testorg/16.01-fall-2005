@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Materials/Structures
 parent_type: CourseSection
+parent_uid: b640d5c4-9375-61ab-448e-c8a1ec804a97
 resourcetype: Document
 title: prszm14a.pdf
 uid: 809d95e7-6ca2-20f9-2b4c-2e9549d2233a

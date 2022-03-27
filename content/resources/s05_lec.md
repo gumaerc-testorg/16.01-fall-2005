@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Signals and Systems
 parent_type: CourseSection
+parent_uid: 85c1b0de-227d-e38d-9a55-dc7008c03de7
 resourcetype: Document
 title: s05_lec.pdf
 uid: a65d59b4-df85-f495-2dea-d52c88181028

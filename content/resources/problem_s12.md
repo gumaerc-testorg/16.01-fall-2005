@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Signals and Systems
 parent_type: CourseSection
+parent_uid: 85c1b0de-227d-e38d-9a55-dc7008c03de7
 resourcetype: Document
 title: problem_s12.pdf
 uid: 04030881-e891-addf-0570-3fe85e8c2b62

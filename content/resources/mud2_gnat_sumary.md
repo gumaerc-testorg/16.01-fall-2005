@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Computers and Programming
 parent_type: CourseSection
+parent_uid: 34c4c991-4bb5-d251-50ee-34713d7b7e3e
 resourcetype: Document
 title: mud2_gnat_sumary.pdf
 uid: ad6a0a97-e743-d90d-4630-fbfec9d00b99

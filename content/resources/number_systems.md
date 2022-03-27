@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Computers and Programming
 parent_type: CourseSection
+parent_uid: 34c4c991-4bb5-d251-50ee-34713d7b7e3e
 resourcetype: Document
 title: number_systems.pdf
 uid: 84063b26-8408-fcd4-398c-0ac44dfd6db5

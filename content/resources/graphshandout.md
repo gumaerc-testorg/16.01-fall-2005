@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Computers and Programming
 parent_type: CourseSection
+parent_uid: 34c4c991-4bb5-d251-50ee-34713d7b7e3e
 resourcetype: Document
 title: graphshandout.pdf
 uid: a86346b6-19ae-7fc4-82e7-919bc7a03169

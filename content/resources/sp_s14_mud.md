@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Signals and Systems
 parent_type: CourseSection
+parent_uid: 85c1b0de-227d-e38d-9a55-dc7008c03de7
 resourcetype: Document
 title: sp_S14_mud.pdf
 uid: d05c5aef-d8a1-97fb-7f91-0d258c038ca1

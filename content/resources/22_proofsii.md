@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Computers and Programming
 parent_type: CourseSection
+parent_uid: 34c4c991-4bb5-d251-50ee-34713d7b7e3e
 resourcetype: Document
 title: 22_proofsII.pdf
 uid: 1da84047-a895-a317-0cef-58f94bf611d1

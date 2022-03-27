@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Fluid Mechanics
 parent_type: CourseSection
+parent_uid: 6a5f667b-6fca-f068-0ec8-b203122154de
 resourcetype: Document
 title: f19_mud.pdf
 uid: 5e5f1127-b6ce-1d4c-4a6e-64b7bc970017

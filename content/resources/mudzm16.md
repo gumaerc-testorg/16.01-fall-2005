@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Materials/Structures
 parent_type: CourseSection
+parent_uid: b640d5c4-9375-61ab-448e-c8a1ec804a97
 resourcetype: Document
 title: mudzm16.pdf
 uid: d3237b09-12e8-e4a4-e3c7-fee3065ba6e5

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: dc102ab9-fad7-5fe0-6da4-e71c66aab8ef
 resourcetype: Document
 title: q4f.pdf
 uid: 36ffb584-62b8-75b2-f232-3dad758b6dd8

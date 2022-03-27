@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Thermodynamics and Propulsion
 parent_type: CourseSection
+parent_uid: 05b2ba63-43e4-3028-bad4-cdf50e0b363a
 resourcetype: Image
 title: QuizReview.gif
 uid: 288f98ac-083d-1dcf-3464-55f6e2f650c3

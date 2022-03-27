@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Systems/Labs 06
 parent_type: CourseSection
+parent_uid: 1f88d71a-9054-37a1-8163-daf60a1dd696
 resourcetype: Document
 title: prszu2.pdf
 uid: d81cfb13-c3ac-ddb9-ee90-209a9de30713

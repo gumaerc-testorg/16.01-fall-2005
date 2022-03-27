@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Thermodynamics and Propulsion
 parent_type: CourseSection
+parent_uid: 05b2ba63-43e4-3028-bad4-cdf50e0b363a
 resourcetype: Document
 title: equationcompendium.pdf
 uid: 8dda908d-284b-cd5e-490c-8403e641819f

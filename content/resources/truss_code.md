@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Systems/Labs 04
 parent_type: CourseSection
+parent_uid: 87e8f47c-351c-ccd4-50e9-b5e03c5bbee2
 resourcetype: Other
 title: Truss_Code.zip
 uid: f4f5f554-7d12-c2b0-aaf9-928272b1e305

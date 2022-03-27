@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Thermodynamics and Propulsion
 parent_type: CourseSection
+parent_uid: 05b2ba63-43e4-3028-bad4-cdf50e0b363a
 resourcetype: Image
 title: slide11_t8_t903.jpeg
 uid: 87148994-56a2-36ac-afe1-2e25803d5f02

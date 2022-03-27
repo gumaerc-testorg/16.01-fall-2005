@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Fluid Mechanics
 parent_type: CourseSection
+parent_uid: 6a5f667b-6fca-f068-0ec8-b203122154de
 resourcetype: Document
 title: f13_fall.pdf
 uid: d63d5c9d-d68f-c89a-d34a-493b9250c12a

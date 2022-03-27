@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Systems/Labs 06
 parent_type: CourseSection
+parent_uid: 1f88d71a-9054-37a1-8163-daf60a1dd696
 resourcetype: Document
 title: spl7a.pdf
 uid: 844abb8a-c7b9-e5a2-afe1-f51f32eb7772

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Computers and Programming
 parent_type: CourseSection
+parent_uid: 34c4c991-4bb5-d251-50ee-34713d7b7e3e
 resourcetype: Document
 title: 5no_rpr_cdng_sys.pdf
 uid: 747a087a-4c68-3247-e0a7-5cf2841b3b65

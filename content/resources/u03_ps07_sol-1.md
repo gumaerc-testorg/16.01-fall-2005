@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Unified Concepts
 parent_type: CourseSection
+parent_uid: 327c8fbc-0586-3637-4667-dc2437a7f1eb
 resourcetype: Document
 title: u03_ps07_sol.pdf
 uid: b74d6459-02e5-622f-60d3-7dbf58d99094

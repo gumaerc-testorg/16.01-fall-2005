@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Systems/Labs 04
 parent_type: CourseSection
+parent_uid: 87e8f47c-351c-ccd4-50e9-b5e03c5bbee2
 resourcetype: Document
 title: fall2003sp5lec_2.pdf
 uid: f6b88fb8-7d5a-7ced-dbf3-ad81314c3183

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Systems/Labs 04
 parent_type: CourseSection
+parent_uid: 87e8f47c-351c-ccd4-50e9-b5e03c5bbee2
 resourcetype: Document
 title: fall_2003_sp7.pdf
 uid: 0b69d350-2388-2809-4225-3bfba5e828f7

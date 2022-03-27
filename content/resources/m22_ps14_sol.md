@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a6eb2151-6f41-806d-94ff-dc83eb5f4337
 resourcetype: Document
 title: m22_ps14_sol.pdf
 uid: dc8f9dc7-71af-f0ee-8e33-8b3589e2b82e

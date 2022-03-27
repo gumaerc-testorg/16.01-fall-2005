@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: c4fd6fd6-1378-ecf4-a56a-b73c6b455e18
 resourcetype: Document
 title: fall_2003_ms_lo.pdf
 uid: 469c735f-4354-94d6-a4fc-45c3e190147b

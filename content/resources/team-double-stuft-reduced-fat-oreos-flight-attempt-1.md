@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Team Double-Stuft Reduced-Fat Oreos: Flight Attempt 1'
 uid: d6248191-41ad-aeb9-50f2-722d7a3b0e56
 video_files:

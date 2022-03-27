@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: c4fd6fd6-1378-ecf4-a56a-b73c6b455e18
 resourcetype: Document
 title: ss_lo_s04.pdf
 uid: 8f4bfb0d-0f66-c0ce-dd7f-bba650ce4257

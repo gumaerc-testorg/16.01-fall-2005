@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: dc102ab9-fad7-5fe0-6da4-e71c66aab8ef
 resourcetype: Document
 title: fall_2003_q7m_sol.pdf
 uid: 006447ee-b5c5-290b-cdc9-9cb62adcc376

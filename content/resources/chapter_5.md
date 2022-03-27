@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Thermodynamics and Propulsion
 parent_type: CourseSection
+parent_uid: 05b2ba63-43e4-3028-bad4-cdf50e0b363a
 resourcetype: Document
 title: chapter_5.pdf
 uid: 65bdbad9-5ca0-9856-3ddc-f76de3b6d7ee

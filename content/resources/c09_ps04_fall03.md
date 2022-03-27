@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a6eb2151-6f41-806d-94ff-dc83eb5f4337
 resourcetype: Document
 title: c09_ps04_fall03.pdf
 uid: 75ea525e-8de4-3bfd-f3bb-888f0db38c9b

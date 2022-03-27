@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a6eb2151-6f41-806d-94ff-dc83eb5f4337
 resourcetype: Document
 title: m25_ps15_sol.pdf
 uid: 08ffbe7b-0506-9c0e-15fe-a0e8e332f2f8

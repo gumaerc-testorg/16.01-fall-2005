@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: 0f11e3a8-8575-7742-68b1-9fbbe9ada2d2
 resourcetype: Document
 title: UnifiedSchedule_S04.pdf
 uid: 89291771-17ad-02b1-d92c-5ffb394ad52c

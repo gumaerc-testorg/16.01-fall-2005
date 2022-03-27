@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Computers and Programming
 parent_type: CourseSection
+parent_uid: 34c4c991-4bb5-d251-50ee-34713d7b7e3e
 resourcetype: Document
 title: ada_acctype_llist.pdf
 uid: cd4b8cf2-c68e-97eb-a8f9-2da8ed664f8d

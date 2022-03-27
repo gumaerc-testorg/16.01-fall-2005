@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Computers and Programming
 parent_type: CourseSection
+parent_uid: 34c4c991-4bb5-d251-50ee-34713d7b7e3e
 resourcetype: Document
 title: 5_ada_acc_tyoes.pdf
 uid: 391a7dbd-25b2-bb5c-8c1d-ff3ae9332459

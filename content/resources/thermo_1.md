@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: c4fd6fd6-1378-ecf4-a56a-b73c6b455e18
 resourcetype: Document
 title: thermo_1.pdf
 uid: 732af9f2-b524-860b-7d1c-5dc1e75ed0f0

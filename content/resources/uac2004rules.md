@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Systems/Labs 04
 parent_type: CourseSection
+parent_uid: 87e8f47c-351c-ccd4-50e9-b5e03c5bbee2
 resourcetype: Document
 title: uac2004rules.pdf
 uid: 9953fd4e-a08a-ce52-0447-3af434e6f47a

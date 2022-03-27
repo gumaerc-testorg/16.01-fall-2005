@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: c4fd6fd6-1378-ecf4-a56a-b73c6b455e18
 resourcetype: Document
 title: course_facts_fall_2003.pdf
 uid: 82791bd4-7d7a-576e-d197-18ee0843b8ed

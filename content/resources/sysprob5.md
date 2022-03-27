@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Systems/Labs 06
 parent_type: CourseSection
+parent_uid: 1f88d71a-9054-37a1-8163-daf60a1dd696
 resourcetype: Document
 title: sysprob5.pdf
 uid: 15569ea4-c1a5-e3d2-01c3-68fe044897dc

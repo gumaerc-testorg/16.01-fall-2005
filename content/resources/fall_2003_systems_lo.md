@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: c4fd6fd6-1378-ecf4-a56a-b73c6b455e18
 resourcetype: Document
 title: fall_2003_systems_lo.pdf
 uid: 4dc53cfe-4109-e5ec-b4a3-e5cf7ca5ace4

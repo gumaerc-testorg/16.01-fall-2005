@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a6eb2151-6f41-806d-94ff-dc83eb5f4337
 resourcetype: Document
 title: u05_ps14_fall03.pdf
 uid: 1f68ef3e-f9b7-54ad-172c-faf8841157dc

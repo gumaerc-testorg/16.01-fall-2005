@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Materials/Structures
 parent_type: CourseSection
+parent_uid: b640d5c4-9375-61ab-448e-c8a1ec804a97
 resourcetype: Document
 title: zmnotes14_15_16.pdf
 uid: 88137d7c-8cdd-0f24-5c9e-e63fe5481c73
