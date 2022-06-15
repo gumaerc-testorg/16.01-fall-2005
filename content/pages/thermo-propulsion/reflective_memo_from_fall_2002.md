@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Thermodynamics and Propulsion
@@ -7,6 +8,10 @@ parent_type: CourseSection
 parent_uid: 05b2ba63-43e4-3028-bad4-cdf50e0b363a
 title: Reflective Memo from Fall 2002
 uid: f5e06907-d71d-dca4-3f2c-29babd15fd05
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Summary
@@ -29,7 +34,7 @@ Teaching Methods
 
 3\. What teaching methods did you use and what evidence indicates these methods were successful or not?
 
-a) Prepared lecture notes were available on the web for all of the [material]({{< baseurl >}}/pages/thermo-propulsion). These notes have evolved over several years starting with a set of handwritten lecture notes. Each year I try to augment them when I find specific areas of difficulty from mud responses, etc. I am quite happy with them at this point. In the end-of-term evaluations 90% of the respondents rated the web page (for all of Unified) Somewhat Effective or Very Effective. 97% of the respondents rated the prepared lecture notes (for all of Unified) Somewhat Effective or Very Effective.
+a) Prepared lecture notes were available on the web for all of the {{% resource_link 05b2ba63-43e4-3028-bad4-cdf50e0b363a "material" %}}. These notes have evolved over several years starting with a set of handwritten lecture notes. Each year I try to augment them when I find specific areas of difficulty from mud responses, etc. I am quite happy with them at this point. In the end-of-term evaluations 90% of the respondents rated the web page (for all of Unified) Somewhat Effective or Very Effective. 97% of the respondents rated the prepared lecture notes (for all of Unified) Somewhat Effective or Very Effective.
 
 b) I used 27 concept questions over the 13 lectures with responses taken on the PRS system. The performance and answers to these were provided on the web page. I continue to find these to be very useful for engaging the class in the material while I am lecturing. 95% of the respondents on the SEF rated the in-class exercises as Very Effective or Somewhat Effective. Also several positive comments were made about the PRS/concept questions in the written comments from the end-of-term evaluations. In general my teaching reviews were good, so I think the students found my lectures to be helpful to them.
 

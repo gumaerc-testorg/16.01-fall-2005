@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the guidelines for writing lab reports.
-file: /media/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/7b1fb14b0bb9c2ad7721f0107993ed88_guidelines.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/7b1fb14b0bb9c2ad7721f0107993ed88_guidelines.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -11,4 +11,10 @@ parent_uid: 1f88d71a-9054-37a1-8163-daf60a1dd696
 resourcetype: Document
 title: guidelines.pdf
 uid: 7b1fb14b-0bb9-c2ad-7721-f0107993ed88
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+This file contains the guidelines for writing lab reports.
+

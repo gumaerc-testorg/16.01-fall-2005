@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Thermodynamics and Propulsion
@@ -7,6 +8,10 @@ parent_type: CourseSection
 parent_uid: 05b2ba63-43e4-3028-bad4-cdf50e0b363a
 title: Reflective Memo from Fall 2000
 uid: 32d581d0-3c1f-d400-2f0a-0732eed4c10f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Summary
@@ -24,7 +29,7 @@ Teaching Methods and the Learning Environment
 
 I took several actions intended to improve learning. These are discussed in greater detail below. Implementation of all of these new elements produced an unsustainable workload for me. I am hopeful that the next time around things will be easier.
 
-a) I put all my lecture notes on the [web]({{< baseurl >}}/pages/thermo-propulsion). Reviewing these notes will provide a good overview of both the subject content and the teaching methods.
+a) I put all my lecture notes on the {{% resource_link 05b2ba63-43e4-3028-bad4-cdf50e0b363a "web" %}}. Reviewing these notes will provide a good overview of both the subject content and the teaching methods.
 
 b) I added sections to the notes for areas of difficulty identified in last year's mud cards (enthalpy, shaft work vs. flow work, and frame dependence of stagnation quantities).
 

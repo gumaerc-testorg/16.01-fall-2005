@@ -1,10 +1,16 @@
 ---
 content_type: video_gallery
+description: The section systems/labs 04 discusses about instructor, learning objectives,
+  systems problems, aerial competition, additional resources and tables for this course.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection
 title: Systems/Labs 04
 uid: 87e8f47c-351c-ccd4-50e9-b5e03c5bbee2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - f912f9c0-4e2b-bbbb-b9af-dff88f60325a
@@ -38,7 +44,7 @@ Prof. Charles Coleman
 Learning Objectives
 -------------------
 
-16.01-16.02 Systems and Labs ([PDF]({{< baseurl >}}/resources/fall_2003_systems_lo-1))
+16.01-16.02 Systems and Labs ({{% resource_link 0cf7d7e5-889a-dfc3-2e88-50a3f6c40930 "PDF" %}})
 
 Systems Problems
 ----------------
@@ -49,7 +55,7 @@ The assignments linked in this section, or "Systems Problems", are assigned in a
 
 [Additional Resources](#BelowTable)
 
-[Table Organization]({{< baseurl >}}/pages/syllabus#Table_organization)
+{{% resource_link c4fd6fd6-1378-ecf4-a56a-b73c6b455e18 "Table Organization" "#Table_organization" %}}
 
 16.01-16.02, Fall 2003
 ----------------------
@@ -90,7 +96,7 @@ Engineering Communications
  
 {{< tdclose >}}
 {{< tdopen >}}
-Problem SP1-2 ([PDF]({{< baseurl >}}/resources/sp_1_2_fall_2003))
+Problem SP1-2 ({{% resource_link f51c1574-4461-f5ee-04f5-a1f225d4aa97 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,7 +114,7 @@ Engineering Communications (cont.)
  
 {{< tdclose >}}
 {{< tdopen >}}
-Problem SP1-2 ([PDF]({{< baseurl >}}/resources/sp_1_2_fall_2003))
+Problem SP1-2 ({{% resource_link f51c1574-4461-f5ee-04f5-a1f225d4aa97 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -135,16 +141,16 @@ Glider Fly-Off
 S/L4
 {{< tdclose >}}
 {{< tdopen >}}
-Water Rocket Lab 1: Water Bottle Rocket Performance Analysis (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sp4_notes))
+Water Rocket Lab 1: Water Bottle Rocket Performance Analysis ({{% resource_link a157a112-5a8d-9124-4769-504d630eedcf "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Design "Cheat Sheet" ([PDF]({{< baseurl >}}/resources/sp4lecture_notes))
+Design "Cheat Sheet" ({{% resource_link d7a8ce4a-5403-bd14-de70-339985b32445 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
 {{< tdclose >}}
 {{< tdopen >}}
-Problem SP4 ([PDF]({{< baseurl >}}/resources/sp4_fall_2003))
+Problem SP4 ({{% resource_link 3dcc59f2-3dcf-c3aa-4e50-c3de233ad799 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,7 +159,7 @@ Problem SP4 ([PDF]({{< baseurl >}}/resources/sp4_fall_2003))
 S/L5
 {{< tdclose >}}
 {{< tdopen >}}
-Water Rocket Lab 2: Concept Design, Concept Selection, Detailed Design ([PDF]({{< baseurl >}}/resources/fall2003sp5lec_2))
+Water Rocket Lab 2: Concept Design, Concept Selection, Detailed Design ({{% resource_link f6b88fb8-7d5a-7ced-dbf3-ad81314c3183 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -162,7 +168,7 @@ Water Rocket Lab 2: Concept Design, Concept Selection, Detailed Design ([PDF]({{
  
 {{< tdclose >}}
 {{< tdopen >}}
-Problem SP5 ([PDF]({{< baseurl >}}/resources/fall_2003_sp5))
+Problem SP5 ({{% resource_link 8c4a0e57-8bfb-e1d5-6209-97f63646da11 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -180,7 +186,7 @@ Water Rocket Lab 3: Water Rocket Implementation and Operation
  
 {{< tdclose >}}
 {{< tdopen >}}
-Problem SP6 ([PDF]({{< baseurl >}}/resources/fall_2003_sp6))
+Problem SP6 ({{% resource_link 5726777a-b122-60a1-8f75-80ac46995656 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -189,16 +195,16 @@ Problem SP6 ([PDF]({{< baseurl >}}/resources/fall_2003_sp6))
 S/L7
 {{< tdclose >}}
 {{< tdopen >}}
-Fluids Lab: Wind Tunnel Pilot Measurements ([PDF]({{< baseurl >}}/resources/sp7_notes))
+Fluids Lab: Wind Tunnel Pilot Measurements ({{% resource_link 122da0ff-dc4a-15d9-5868-5358dde118f3 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
 {{< tdclose >}}
 {{< tdopen >}}
-S/L7 Mud ([PDF]({{< baseurl >}}/resources/l7_mud))
+S/L7 Mud ({{% resource_link ed6a980b-f1b2-5bf9-314f-090ccb0c7536 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Problem SP7 ([PDF]({{< baseurl >}}/resources/fall_2003_sp7))
+Problem SP7 ({{% resource_link 0b69d350-2388-2809-4225-3bfba5e828f7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -210,13 +216,13 @@ S/L9
 Materials and Structures Lab 1: Truss Analysis and Testing
 {{< tdclose >}}
 {{< tdopen >}}
-Truss Code ([ZIP](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/systems-labs-04/Truss_Code.zip)) (The ZIP file contains: array\_exceptions.ads, generic\_real\_arrays.adb, generic\_real\_arrays.ads, generic\_real\_arrays-operations.adb, generic\_real\_arrays-operations.ads, Sample\_Truss\_Input.txt, solve\_my\_truss.adb, truss.adb, truss.ads, Truss\_Input.txt.)
+Truss Code ({{% resource_link f4f5f554-7d12-c2b0-aaf9-928272b1e305 "ZIP" %}}) (The ZIP file contains: array\_exceptions.ads, generic\_real\_arrays.adb, generic\_real\_arrays.ads, generic\_real\_arrays-operations.adb, generic\_real\_arrays-operations.ads, Sample\_Truss\_Input.txt, solve\_my\_truss.adb, truss.adb, truss.ads, Truss\_Input.txt.)
 {{< tdclose >}}
 {{< tdopen >}}
  
 {{< tdclose >}}
 {{< tdopen >}}
-Problem SP9 ([PDF]({{< baseurl >}}/resources/fall_2003_sp9))
+Problem SP9 ({{% resource_link 833de649-0375-d5a2-f619-65893f040458 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -234,7 +240,7 @@ Materials and Structures Lab 2: Measuring Strain and Material Properties
  
 {{< tdclose >}}
 {{< tdopen >}}
-Problem SP10 ([PDF]({{< baseurl >}}/resources/fall_2003_sp10))
+Problem SP10 ({{% resource_link 5c71407c-99e3-3b7c-07d6-178f32e7b3d0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -271,24 +277,24 @@ ASSIGNMENTS / SOLUTIONS
 S/L1
 {{< tdclose >}}
 {{< tdopen >}}
-System Requirements and Teamwork ([PDF]({{< baseurl >}}/resources/sp1_lecture))
+System Requirements and Teamwork ({{% resource_link 60edf693-2d81-3d4c-60dc-59c1028673c4 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-General FRDIARRC Table ([PDF]({{< baseurl >}}/resources/sample_frdiarrc)) (Courtesy of Prof. Alex Slocum. Used with permission.)  
+General FRDIARRC Table ({{% resource_link 4db43a3f-a76b-a8ad-1ef8-4d550b629095 "PDF" %}}) (Courtesy of Prof. Alex Slocum. Used with permission.)  
   
-Sample FRDIARRC Table ([PDF]({{< baseurl >}}/resources/sample_frdiarrc)) (Courtesy of Prof. Alex Slocum. Used with permission.)  
+Sample FRDIARRC Table ({{% resource_link 4db43a3f-a76b-a8ad-1ef8-4d550b629095 "PDF" %}}) (Courtesy of Prof. Alex Slocum. Used with permission.)  
   
-Notes on Memos ([PDF]({{< baseurl >}}/resources/sp1notes_on_memos)) (Courtesy of Jennifer Lynn Craig. Used with permission.)  
+Notes on Memos ({{% resource_link 242a1abd-fbc2-4fd0-55ec-7d6ecd183bb3 "PDF" %}}) (Courtesy of Jennifer Lynn Craig. Used with permission.)  
   
-Teamwork Memo ([PDF]({{< baseurl >}}/resources/teamwork_memo)) (Courtesy of Jennifer Lynn Craig. Used with permission.)
+Teamwork Memo ({{% resource_link fb0ddb75-9d38-8998-0e0f-b46acd32e45d "PDF" %}}) (Courtesy of Jennifer Lynn Craig. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
  
 {{< tdclose >}}
 {{< tdopen >}}
-Problem SP1 ([PDF]({{< baseurl >}}/resources/spring2004_sp1))  
+Problem SP1 ({{% resource_link 39209153-3fe4-6ae8-2646-ac79468de823 "PDF" %}})  
   
-Grading Sheet ([PDF]({{< baseurl >}}/resources/sp1grading_rubric))
+Grading Sheet ({{% resource_link 0b67a806-a06b-45db-0f43-9a692a11985a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -297,7 +303,7 @@ Grading Sheet ([PDF]({{< baseurl >}}/resources/sp1grading_rubric))
 S/L2
 {{< tdclose >}}
 {{< tdopen >}}
-Requirements, Teamwork, Competition ([PDF]({{< baseurl >}}/resources/sp2lecture))
+Requirements, Teamwork, Competition ({{% resource_link cbe56ad5-047e-0b1c-e189-51031c1edb5d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Miller, Alan C., and Kevin Sack. "Far From Battlefield, Marines Lose One-Third of Harrier Fleet," _Los Angeles Times_, December 15, 2002.
@@ -306,13 +312,13 @@ Miller, Alan C., and Kevin Sack. "Far From Battlefield, Marines Lose One-Third o
  
 {{< tdclose >}}
 {{< tdopen >}}
-Problem SP2 Part 1 ([PDF]({{< baseurl >}}/resources/sp2_part1))  
+Problem SP2 Part 1 ({{% resource_link c3d2137a-3a6c-aa1c-8fa5-2a52a4856824 "PDF" %}})  
   
-Grading Sheet ([PDF]({{< baseurl >}}/resources/sp2_1graderubric))  
+Grading Sheet ({{% resource_link 26e64615-9124-2206-7446-e9c195618208 "PDF" %}})  
   
-Problem SP2 Part 2 ([PDF]({{< baseurl >}}/resources/sp2_part2))  
+Problem SP2 Part 2 ({{% resource_link 7ffdd2a8-d125-2246-2913-b16a9f4a345e "PDF" %}})  
   
-Grading Sheet ([PDF]({{< baseurl >}}/resources/sp2_2graderubric))
+Grading Sheet ({{% resource_link 2cfd0d36-272b-801c-7f81-aca8098bed23 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -324,13 +330,13 @@ S/L3
 Fluids Lab: Wind Tunnel Testing of a 3-D Wing
 {{< tdclose >}}
 {{< tdopen >}}
-Airfoil Coordinate File ([DAT](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/systems-labs-04/dfly.dat))
+Airfoil Coordinate File ({{% resource_link 54af1853-c91c-fb09-4976-21ee82b4d17e "DAT" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
 {{< tdclose >}}
 {{< tdopen >}}
-Problem SP3 ([PDF]({{< baseurl >}}/resources/spring2004_sp3))
+Problem SP3 ({{% resource_link cd615d2e-4514-de62-c9e2-67efabad6598 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -339,24 +345,24 @@ Problem SP3 ([PDF]({{< baseurl >}}/resources/spring2004_sp3))
 S/L4
 {{< tdclose >}}
 {{< tdopen >}}
-Engineering Education and Baseline Assessment ([PDF]({{< baseurl >}}/resources/sp4lecture2))
+Engineering Education and Baseline Assessment ({{% resource_link 30484fa7-4149-f87b-2e04-a59602056a90 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sp4_asgnt_notes))  
+Assignment Notes ({{% resource_link 5f4354a3-d2f6-a552-115c-0c35d1cb5ed5 "PDF" %}})  
   
-RC Design (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sp4_rc_design))  
+RC Design ({{% resource_link cadbb3d1-7135-9f26-8d67-eda9ee630146 "PDF" %}})  
   
-Wright Brothers Wind Tunnel Test ([XLS](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/systems-labs-04/cal_run.xls))  
+Wright Brothers Wind Tunnel Test ({{% resource_link 80c12c1d-03a8-6d12-4e83-dc298fe365cc "XLS" %}})  
   
-Dragonfly Baseline Performance Assessment (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/spl4lecture))
+Dragonfly Baseline Performance Assessment ({{% resource_link 98581935-b535-a8d8-feb3-ba2f2d033a01 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
 {{< tdclose >}}
 {{< tdopen >}}
-Problem SP4 ([PDF]({{< baseurl >}}/resources/spring2004_sp4))  
+Problem SP4 ({{% resource_link b4590170-9c72-ec82-fd89-2b500b793381 "PDF" %}})  
   
-Grading Sheet ([PDF]({{< baseurl >}}/resources/sp4grading_rubirc))
+Grading Sheet ({{% resource_link 4f3a0736-5b4e-d76d-fe7b-90c486821dc0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -374,7 +380,7 @@ Materials and Structures Lab: Beam Analysis and Testing
  
 {{< tdclose >}}
 {{< tdopen >}}
-Problem SP5 ([PDF]({{< baseurl >}}/resources/beamlab04))
+Problem SP5 ({{% resource_link dc54588b-34be-6c3b-7cce-7d8cee75df5f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -392,9 +398,9 @@ Design 1: Wing and Tail
  
 {{< tdclose >}}
 {{< tdopen >}}
-Problem SP6 ([PDF]({{< baseurl >}}/resources/spring2004_sp6))  
+Problem SP6 ({{% resource_link eda71b26-ba82-d349-f817-7e53fc4a6bf4 "PDF" %}})  
   
-Grading Sheet ([PDF]({{< baseurl >}}/resources/sp6_rubric))
+Grading Sheet ({{% resource_link 9bcee725-9095-679b-6871-d2579aaca085 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -412,9 +418,9 @@ Design 2: Propulsion, Payload, Operations
  
 {{< tdclose >}}
 {{< tdopen >}}
-Problem SP8 ([PDF]({{< baseurl >}}/resources/spring2004_sp8))  
+Problem SP8 ({{% resource_link fe5860bf-4081-63fb-5202-bc7b2cf7a802 "PDF" %}})  
   
-Grading Sheet ([PDF]({{< baseurl >}}/resources/sp8_rubric))
+Grading Sheet ({{% resource_link c0968215-a386-e9a6-f5bd-aa95262042a9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -426,15 +432,15 @@ S/L9
 Build Report 1
 {{< tdclose >}}
 {{< tdopen >}}
-System Problem 9 Report 1 ([PDF]({{< baseurl >}}/resources/sp9_report1))  
+System Problem 9 Report 1 ({{% resource_link 9c957444-07b4-56c7-1cec-82f7d508d09f "PDF" %}})  
   
-Report 1 Grading Sheet ([PDF]({{< baseurl >}}/resources/sp9report1grad))
+Report 1 Grading Sheet ({{% resource_link 6f6d4c51-60ce-d0a8-bd0a-f94df14dee34 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
 {{< tdclose >}}
 {{< tdopen >}}
-Problem SP9-10 ([PDF]({{< baseurl >}}/resources/spring2004_sp9))
+Problem SP9-10 ({{% resource_link 547e9af3-27cd-ae03-346f-3c3c9c22c885 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -446,15 +452,15 @@ S/L10
 Build Report 2
 {{< tdclose >}}
 {{< tdopen >}}
-System Problem 10 Report 2 ([PDF]({{< baseurl >}}/resources/sp9_report2))  
+System Problem 10 Report 2 ({{% resource_link 514eb80d-e892-3d5d-0adb-ec334e0b7d5a "PDF" %}})  
   
-Report 2 Grading Sheet ([PDF]({{< baseurl >}}/resources/sp9report2grad))
+Report 2 Grading Sheet ({{% resource_link 9b220a8a-0bb0-73cd-6439-9d86abc185bd "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
 {{< tdclose >}}
 {{< tdopen >}}
-Problem SP9-10 ([PDF]({{< baseurl >}}/resources/spring2004_sp9))
+Problem SP9-10 ({{% resource_link 547e9af3-27cd-ae03-346f-3c3c9c22c885 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -472,7 +478,7 @@ Signals and Systems Lab: Amplitude Modulation
  
 {{< tdclose >}}
 {{< tdopen >}}
-Problem SP11 ([PDF]({{< baseurl >}}/resources/spring2004_sp11))
+Problem SP11 ({{% resource_link 5f13e3b0-32f8-bb4d-ecaf-9ae5961326eb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -486,9 +492,9 @@ During the spring semester, most systems problems relate to the semester's aeria
 
 ### Resources
 
-Aerial Competition Rules ([PDF]({{< baseurl >}}/resources/uac2004rules))
+Aerial Competition Rules ({{% resource_link 9953fd4e-a08a-ce52-0447-3af434e6f47a "PDF" %}})
 
-Egg Information ([PDF]({{< baseurl >}}/resources/egg_info))
+Egg Information ({{% resource_link 04acb69e-a0a0-9ae6-76dc-fe24b9d16b50 "PDF" %}})
 
 ### Videos
 
@@ -500,6 +506,6 @@ On competition day, each team was assigned a 15-minute flight window. Flight att
 {{< anchor "BelowTable" >}}{{< /anchor >}}Additional Resources
 --------------------------------------------------------------
 
-Style Guide for Writing Reports ([PDF]({{< baseurl >}}/resources/styleguideuerev2))
+Style Guide for Writing Reports ({{% resource_link 9b70013b-752d-0b3b-82f1-18de640f646b "PDF" %}})
 
-Memos on Building the Dragonfly ([PDF]({{< baseurl >}}/resources/dfly_memos))
+Memos on Building the Dragonfly ({{% resource_link 76eb3605-14e7-29fc-af04-32cb883f9d3e "PDF" %}})

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Review questions and answers on Thevenin?equivalent?circuit.
-file: /media/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/e3f4fbc4a79ef7f77283a26f72fbf53f_S7_mud.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/e3f4fbc4a79ef7f77283a26f72fbf53f_S7_mud.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -11,4 +11,10 @@ parent_uid: 85c1b0de-227d-e38d-9a55-dc7008c03de7
 resourcetype: Document
 title: S7_mud.pdf
 uid: e3f4fbc4-a79e-f7f7-7283-a26f72fbf53f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+Review questions and answers on Thevenin?equivalent?circuit.
+

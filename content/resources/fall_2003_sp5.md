@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/8c4a0e578bfbe1d5620997f63646da11_fall_2003_sp5.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/8c4a0e578bfbe1d5620997f63646da11_fall_2003_sp5.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -11,4 +11,8 @@ parent_uid: 87e8f47c-351c-ccd4-50e9-b5e03c5bbee2
 resourcetype: Document
 title: fall_2003_sp5.pdf
 uid: 8c4a0e57-8bfb-e1d5-6209-97f63646da11
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

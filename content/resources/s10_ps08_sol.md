@@ -2,7 +2,7 @@
 content_type: resource
 description: Solutions to problem set S10 involving Impedance Methods, The Concept
   of "State", State Equations.
-file: /media/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/807513facca08662581648483deff941_s10_ps08_sol.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/807513facca08662581648483deff941_s10_ps08_sol.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,4 +13,10 @@ parent_uid: a6eb2151-6f41-806d-94ff-dc83eb5f4337
 resourcetype: Document
 title: s10_ps08_sol.pdf
 uid: 807513fa-cca0-8662-5816-48483deff941
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+Solutions to problem set S10 involving Impedance Methods, The Concept of "State", State Equations.
+

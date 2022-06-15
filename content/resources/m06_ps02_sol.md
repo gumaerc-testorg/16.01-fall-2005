@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains handwritten solutions to the given problem set
   on designing a beam-like structure.
-file: /media/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/47710ecd8f1e6cdcf10fd54655819633_m06_ps02_sol.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/47710ecd8f1e6cdcf10fd54655819633_m06_ps02_sol.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,4 +13,10 @@ parent_uid: a6eb2151-6f41-806d-94ff-dc83eb5f4337
 resourcetype: Document
 title: m06_ps02_sol.pdf
 uid: 47710ecd-8f1e-6cdc-f10f-d54655819633
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+This resource contains handwritten solutions to the given problem set on designing a beam-like structure.
+

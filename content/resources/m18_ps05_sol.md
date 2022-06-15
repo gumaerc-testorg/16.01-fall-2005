@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides solutions to problem set on damage tolerance requirements.
-file: /media/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/b8f275902c218873bca3f1d704fb221d_m18_ps05_sol.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/b8f275902c218873bca3f1d704fb221d_m18_ps05_sol.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -12,4 +12,10 @@ parent_uid: a6eb2151-6f41-806d-94ff-dc83eb5f4337
 resourcetype: Document
 title: m18_ps05_sol.pdf
 uid: b8f27590-2c21-8873-bca3-f1d704fb221d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+This resource provides solutions to problem set on damage tolerance requirements.
+

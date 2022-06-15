@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handwritten problem set solution.
-file: /media/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/101b704a2704aa4d3cdefb6dacfe467c_p03_ps10_sol.pdf
+file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/101b704a2704aa4d3cdefb6dacfe467c_p03_ps10_sol.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -12,4 +12,10 @@ parent_uid: a6eb2151-6f41-806d-94ff-dc83eb5f4337
 resourcetype: Document
 title: p03_ps10_sol.pdf
 uid: 101b704a-2704-aa4d-3cde-fb6dacfe467c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+Handwritten problem set solution.
+
