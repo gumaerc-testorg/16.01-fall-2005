@@ -4,6 +4,7 @@ description: This resource contains information on course survey essay question 
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/1c535afdf65c44091ca49683ba2ceea3_FT03SEFessay.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Thermodynamics and Propulsion
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information on course survey essay question responses.
-

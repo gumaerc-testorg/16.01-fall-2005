@@ -4,6 +4,7 @@ description: This resource contains infomration on the topics of Oblique Shocks.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/b397de444b6e0a44cb8ff04873690058_f17_sp.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Fluid Mechanics
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains infomration on the topics of Oblique Shocks.
-

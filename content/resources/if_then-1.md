@@ -4,6 +4,7 @@ description: ''
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/e8078b2954524ffc5b7400d9e38cebcd_if_then.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Computers and Programming
 parent_type: CourseSection

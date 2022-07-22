@@ -4,6 +4,7 @@ description: This resource contains information on the topic of General Wings.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/d77d7c793e7a22e20b5305547196adbf_f09_sp.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Fluid Mechanics
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information on the topic of General Wings.
-

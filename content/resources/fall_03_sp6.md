@@ -4,6 +4,7 @@ description: ''
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/d0ece1bfdff6c165638abb7456e94d34_fall_03_sp6.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Systems/Labs 04
 parent_type: CourseSection

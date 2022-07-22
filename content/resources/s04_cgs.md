@@ -4,6 +4,7 @@ description: Concept questions.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/a2f98fc7f388c3b7b0b9d386f2d96432_s04_cgs.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Signals and Systems
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Concept questions.
-

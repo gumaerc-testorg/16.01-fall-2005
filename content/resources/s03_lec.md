@@ -5,6 +5,7 @@ description: This file contains notes for Kirchhoff's voltage law, Kirchhoff's c
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/c43e5cf3d45c38459673ba3a4f827469_s03_lec.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Signals and Systems
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains notes for Kirchhoff's voltage law, Kirchhoff's current law etc.
-

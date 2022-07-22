@@ -4,6 +4,7 @@ description: ''
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/fc24798b0e937a3082cdfb183121e82e_chapter_4.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Thermodynamics and Propulsion
 parent_type: CourseSection

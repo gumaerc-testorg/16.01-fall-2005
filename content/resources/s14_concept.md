@@ -4,6 +4,7 @@ description: Concept questions on Signal representation in sine and cosines.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/29fe9a327b904ed693b3d718b59bb7a2_s14_concept.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Signals and Systems
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Concept questions on Signal representation in sine and cosines.
-

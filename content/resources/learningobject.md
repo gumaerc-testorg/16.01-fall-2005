@@ -5,6 +5,7 @@ description: This file discusses about learning objectives and measurable outcom
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/b0ee1a21e5cbc1b48fa7eba042817874_learningobject.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Signals and Systems
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This file discusses about learning objectives and measurable outcomes (assessment method).
-

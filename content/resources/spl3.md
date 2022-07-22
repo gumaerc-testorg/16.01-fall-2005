@@ -5,6 +5,7 @@ description: This file contains the notes for motor/propeller characterization, 
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/369e18b25007e37a6e5eace7c0a0745e_spl3.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Systems/Labs 06
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains the notes for motor/propeller characterization, propellor thrust characteristics etc.
-

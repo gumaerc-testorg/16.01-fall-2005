@@ -5,6 +5,7 @@ description: This resource contains information on the topics of Shock Losses an
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/70967bf5b2a3637b44de057cb046d328_f16_sp.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Fluid Mechanics
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information on the topics of Shock Losses and Compressible Flow Pitot-Tube.
-

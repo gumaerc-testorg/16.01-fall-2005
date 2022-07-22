@@ -7,6 +7,7 @@ file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/d3db1
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource provides a problem set based on representing strains as a matrix to calculate the principal strains and principal directions via the eigenvalue and eigenvectorsof the matrix.
-

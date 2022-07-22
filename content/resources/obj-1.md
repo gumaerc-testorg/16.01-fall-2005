@@ -5,6 +5,7 @@ description: This introductory handout contains information on the scope of the 
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/24577fa87b5aa5b999cbe491bddd59cb_obj.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Fluid Mechanics
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This introductory handout contains information on the scope of the course, its learning objectives, its measurable outcomes, and the assessment strategy.
-

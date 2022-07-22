@@ -9,6 +9,7 @@ file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/19534
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -23,4 +24,3 @@ video_metadata:
 ---
 This file includes solutions for problems on pressure, work done, p-v and T-v diagrams, difference between heat and temperature, adiabatic, quasi-static compression, constant volume heat addition,
 constant pressure expansion, and isothermal compression.
-

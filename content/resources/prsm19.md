@@ -5,6 +5,7 @@ description: This resource contains concept questions and answers based on aeros
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/b4f9123305cd72e7b506dbc99a37985a_prsm19.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Materials/Structures
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains concept questions and answers based on aerospace component and maximum uniaxial tensile stress.
-

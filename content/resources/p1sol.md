@@ -4,6 +4,7 @@ description: Hand written solution of problem P1.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/edde99d2b3a560ffec601b0d4fd58dee_P1sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Thermodynamics and Propulsion
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Hand written solution of problem P1.
-

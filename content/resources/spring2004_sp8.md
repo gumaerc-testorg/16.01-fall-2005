@@ -5,6 +5,7 @@ description: This resource contains information on problem set for propulsion, p
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/fe5860bf408163fb5202bc7b2cf7a802_spring2004_sp8.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Systems/Labs 04
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information on problem set for propulsion, payload, operations.
-

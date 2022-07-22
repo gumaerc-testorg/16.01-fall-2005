@@ -5,6 +5,7 @@ description: This resource contains concept questions and answers based on bendi
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/33656cb6a22538515d5b6467fe7f795b_prsm3.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Materials/Structures
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains concept questions and answers based on bending moment diagram and shear force distribution.
-

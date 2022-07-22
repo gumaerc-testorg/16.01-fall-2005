@@ -5,6 +5,7 @@ description: This file contains the learning objectives and measurable outcomes 
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/4dc53cfe4109e5ecb4a3e5cf7ca5ace4_fall_2003_systems_lo.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains the learning objectives and measurable outcomes for the course.
-

@@ -4,6 +4,7 @@ description: This resource provides information on the topic of Airfoils.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/e8fb4973d2fa9c6937501f0ac66e9a8a_f19_fall.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Fluid Mechanics
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource provides information on the topic of Airfoils.
-

@@ -4,6 +4,7 @@ description: This resource contains information on Grading rubric for systems pr
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/9bcee7259095679b6871d2579aaca085_sp6_rubric.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Systems/Labs 04
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information on Grading rubric for systems problem.
-

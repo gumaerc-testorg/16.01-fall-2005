@@ -4,6 +4,7 @@ description: Instructor's response to 'Muddiest Part of the Lecture Cards'.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/d67886f0a4566ba6310f05cf262f5326_mud1.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Computers and Programming
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Instructor's response to 'Muddiest Part of the Lecture Cards'.
-

@@ -4,6 +4,7 @@ description: This file contains notes for Design Variable Concepts.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/e97270ad15502101bb909dfe6104e0be_spl4.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Systems/Labs 06
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains notes for Design Variable Concepts.
-

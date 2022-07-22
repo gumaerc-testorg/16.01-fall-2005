@@ -5,6 +5,7 @@ description: This resource contains review questions and answers based on compat
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/8aa38fe057fd7a3fd8ce1ebf6794e091_mudzm5.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Materials/Structures
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains review questions and answers based on compatibility and constitutive, materials and structures, forces, trusses and lab.
-

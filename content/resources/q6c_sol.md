@@ -5,6 +5,7 @@ file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/7479d
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Exam with solutions provided by the professor based on queue,MST,Big-O.
-

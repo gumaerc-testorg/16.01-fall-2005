@@ -5,6 +5,7 @@ description: This resource contains information on water bottle rocket design ch
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/d7a8ce4a5403bd14de70339985b32445_sp4lecture_notes.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Systems/Labs 04
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information on water bottle rocket design cheat sheet.
-

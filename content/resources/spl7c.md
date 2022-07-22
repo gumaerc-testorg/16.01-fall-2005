@@ -4,6 +4,7 @@ description: This file contains notes for Plain Vanilla Fuselage Drag Measuremen
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/110c029896e3d6d97bb525968970109f_spl7c.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Systems/Labs 06
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains notes for Plain Vanilla Fuselage Drag Measurements.
-

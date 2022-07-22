@@ -4,6 +4,7 @@ description: Lecture notes.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/6bef9d498fa2f71628dfe44e7281a550_f19_cyl_coord.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Fluid Mechanics
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes.
-

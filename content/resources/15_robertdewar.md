@@ -6,6 +6,7 @@ description: 'Presentation given by guest lecturer  Prof. Robert Dewar
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/6b7aae7dc07dc4c4a5127be8483ecfc9_15_robertdewar.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Computers and Programming
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
 ---
 Presentation given by guest lecturer  Prof. Robert Dewar
 University of Chicago (Courtesy of Robert Dewar. Used with permission.)
-

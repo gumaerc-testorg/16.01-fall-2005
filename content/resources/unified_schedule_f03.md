@@ -4,6 +4,7 @@ description: This handout contains the course calendar.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/9d9fe1dd27972a971383984e8f5c2036_Unified_Schedule_F03.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This handout contains the course calendar.
-

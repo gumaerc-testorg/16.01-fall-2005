@@ -4,6 +4,7 @@ description: Lecture 5 (2004) presentation.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/391a7dbd25b2bb5c8c1dff3ae9332459_5_ada_acc_tyoes.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Computers and Programming
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture 5 (2004) presentation.
-

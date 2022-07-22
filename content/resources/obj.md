@@ -5,6 +5,7 @@ description: This file contains scope, learning objectives, measurable outcomes 
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/fc1d866db1c95ccd131b84abada92d27_obj.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains scope, learning objectives, measurable outcomes and assessment strategy for this course.
-

@@ -5,6 +5,7 @@ description: Handwritten lecture notes on More on Finding State Equations, Eigen
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/65fe8b3e4e4ccd737967e2f4315c0fef_s12_lec.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Signals and Systems
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Handwritten lecture notes on More on Finding State Equations, Eigenvalues and Eigenvectors.
-

@@ -5,6 +5,7 @@ description: This resource provides information on formation of lifting flow and
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/d608811c5c62f1d00c9b28810af4bfbe_f01_sp.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Fluid Mechanics
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource provides information on formation of lifting flow and established steady flow.
-

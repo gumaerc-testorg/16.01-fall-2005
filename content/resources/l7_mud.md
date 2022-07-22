@@ -4,6 +4,7 @@ description: Review of "Muddy Points" from the lab assignment.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/ed6a980bf1b25bf9314f090ccb0c7536_l7_mud.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Systems/Labs 04
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Review of "Muddy Points" from the lab assignment.
-

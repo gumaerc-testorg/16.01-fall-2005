@@ -5,6 +5,7 @@ description: This file is an introduction to the course and contains course obje
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/82791bd47d7a576ed19718ee0843b8ed_course_facts_fall_2003.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This file is an introduction to the course and contains course objective, staff and text books information.
-

@@ -5,6 +5,7 @@ description: This handout contains the Learning Objectives and the Measurable Ou
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/732af9f2b524860b7d1c5dc1e75ed0f0_thermo_1.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This handout contains the Learning Objectives and the Measurable Outcomes (Assessment Method) for this course.
-

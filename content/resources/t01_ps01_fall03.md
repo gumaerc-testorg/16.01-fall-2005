@@ -8,6 +8,7 @@ file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/ecf56
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -22,4 +23,3 @@ video_metadata:
 ---
 This resource describe the conversions of
 energy (internal, potential, kinetic and chemical) and exchanges of heat and work for this system and that of the rocket itself.
-

@@ -5,6 +5,7 @@ description: This resource contains information on data file associated with sys
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/54af1853c91cfb09497621ee82b4d17e_dfly.dat
 file_type: text/plain
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Systems/Labs 04
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information on data file associated with systems lab 3.
-

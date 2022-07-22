@@ -5,6 +5,7 @@ description: 'Lecture notes on Fatigue and Fracture and M20: Other Factors in Ma
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/f46ab73b31f6a4622ba62ab4e5366e95_gm19_20notes2.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Materials/Structures
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on Fatigue and Fracture and M20: Other Factors in Materials Selection and Design.
-

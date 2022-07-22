@@ -5,6 +5,7 @@ description: The introductory lecture for this course. The structure of the cour
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/71194e1acb081bf67cd013b4a9271b16_unified_lecture_u1.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Systems/Labs 06
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 The introductory lecture for this course. The structure of the course and course requirements are discussed.
-

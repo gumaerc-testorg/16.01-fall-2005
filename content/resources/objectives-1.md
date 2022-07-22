@@ -4,6 +4,7 @@ description: Learning objectives and measurable outcomes for the course.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/7388adedca07885c4cc2bfb6b98338de_objectives.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Signals and Systems
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Learning objectives and measurable outcomes for the course.
-

@@ -4,6 +4,7 @@ description: Lecture 11 (2004) presentation.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/3ad763b7b19e1dbab8a02122926b2d81_11_sort_srch_alg.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Computers and Programming
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture 11 (2004) presentation.
-

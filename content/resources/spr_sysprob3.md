@@ -4,6 +4,7 @@ description: This file contains notes for DC Motor / Propeller Characterization.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/392cba00e9c7a64061f29292072b472c_spr_sysprob3.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Systems/Labs 06
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains notes for DC Motor / Propeller Characterization.
-

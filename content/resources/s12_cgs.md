@@ -5,6 +5,7 @@ description: Definition of Stability and Concept questions on BIBO Stability I,B
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/67282018577533fec3f4ef01376679a1_s12_cgs.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Signals and Systems
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Definition of Stability and Concept questions on BIBO Stability I,BIBO Stability II & BIBO Stability III.
-

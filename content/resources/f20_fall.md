@@ -5,6 +5,7 @@ description: 'This resource provides information on the topic of Airfoils: Detai
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/eb0b880faacdc1c46679160157ed0f08_f20_fall.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Fluid Mechanics
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource provides information on the topic of Airfoils: Detailed Look.
-

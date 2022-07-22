@@ -6,6 +6,7 @@ description: 'Review questions and answers on how?to?
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/13bfd9b9e11b3facc1b3300940975b43_S9_mud.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Signals and Systems
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
 ---
 Review questions and answers on how?to?
 find?the?time?response?of?RC?circuits?to?initial?conditions.
-

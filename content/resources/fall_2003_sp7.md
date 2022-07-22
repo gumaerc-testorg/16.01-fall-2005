@@ -4,6 +4,7 @@ description: Problem set for Unified Engineering course.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/0b69d3502388280942253bfba5e828f7_fall_2003_sp7.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Systems/Labs 04
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Problem set for Unified Engineering course.
-

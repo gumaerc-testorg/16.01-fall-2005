@@ -4,6 +4,7 @@ description: Ideas and suggestions for the Water Rocket Lab.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/f6b88fb87d5a7ceddbf3ad81314c3183_fall2003sp5lec_2.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Systems/Labs 04
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Ideas and suggestions for the Water Rocket Lab.
-

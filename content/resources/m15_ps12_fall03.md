@@ -6,6 +6,7 @@ file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/421a9
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problems based on components of strain tensor, principal strain and principal strain directions, and volumetric strain.
-

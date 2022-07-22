@@ -4,6 +4,7 @@ description: This file contains lecture S1 concept questions.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/81dca6b7f7f5ea020bf95a09ff1655a1_s01_concept.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Signals and Systems
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains lecture S1 concept questions.
-

@@ -4,6 +4,7 @@ description: Learning Objectives for 16.01-16.02 Computers and Programming.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/e20555128399efc07d6b0a267bead555_learnobjfallver.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Computers and Programming
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Learning Objectives for 16.01-16.02 Computers and Programming.
-

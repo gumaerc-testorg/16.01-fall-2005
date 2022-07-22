@@ -5,6 +5,7 @@ description: 'This file contains the exercise based on the topic: Wind Tunnel Pi
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/f6cac589d278a1441a8a5c9fc21aa849_sysprob1a.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Systems/Labs 06
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains the exercise based on the topic: Wind Tunnel Pitot Measurements.
-

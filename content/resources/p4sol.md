@@ -4,6 +4,7 @@ description: Problem set hand written solution based on speed and overall effici
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/4bb8218aa715de7509382db6a9b5c4c9_P4sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Thermodynamics and Propulsion
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Problem set hand written solution based on speed and overall efficiency.
-

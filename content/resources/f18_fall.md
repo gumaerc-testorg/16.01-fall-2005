@@ -5,6 +5,7 @@ description: This resource contains infomration on the topics of Lift Prediction
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/5135d829744766818b219bb1903feed4_f18_fall.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Fluid Mechanics
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains infomration on the topics of Lift Prediction and Vortex Sheets.
-

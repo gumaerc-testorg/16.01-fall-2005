@@ -4,6 +4,7 @@ description: This resource provides information on the topic of Momentum Theorem
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/5db93b879389ae13be96961f0852f43e_f9_mud.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Fluid Mechanics
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource provides information on the topic of Momentum Theorem Applications.
-
