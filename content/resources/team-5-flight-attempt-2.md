@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Systems/Labs 04
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Team 5: Flight Attempt 2'
 uid: b7ab5745-cbfe-96d3-0aeb-5062b8bfc75c
 video_files:

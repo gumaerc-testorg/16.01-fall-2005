@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Systems/Labs 04
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Two Guys, Two Girls and an Airplane: Flight Attempt 1'
 uid: 0687a2e3-cf14-d39e-08b5-69cae4a1664b
 video_files:

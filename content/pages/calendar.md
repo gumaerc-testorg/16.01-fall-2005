@@ -1,7 +1,17 @@
 ---
 content_type: page
+description: This section contains the calendars for the Fall 2005 and Spring 2006
+  semesters. The calendars are presented both in PDF format, as well as HTML format.
+  Due to the complexity of the calendars, detailed explanations of the course format
+  and a calendar key are provided prior to the presentation of the calendars.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 0f11e3a8-8575-7742-68b1-9fbbe9ada2d2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This section contains the calendars for the Fall 2005 and Spring 2006 semesters. The calendars are presented both in [PDF format](#pdf), as well as [HTML format](#html). Due to the complexity of the calendars, detailed explanations of the course format and a [calendar key](#calendar_key) are provided prior to the presentation of the calendars.
@@ -59,7 +69,7 @@ ABBREVIATIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Computers and Programming]({{< baseurl >}}/pages/comps-programming)
+{{% resource_link 34c4c991-4bb5-d251-50ee-34713d7b7e3e "Computers and Programming" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 C
@@ -68,7 +78,7 @@ C
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Fluid Mechanics]({{< baseurl >}}/pages/fluid-mechanics)
+{{% resource_link 6a5f667b-6fca-f068-0ec8-b203122154de "Fluid Mechanics" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 F
@@ -77,7 +87,7 @@ F
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Materials and Structures]({{< baseurl >}}/pages/materials-structures)
+{{% resource_link b640d5c4-9375-61ab-448e-c8a1ec804a97 "Materials and Structures" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 M
@@ -86,7 +96,7 @@ M
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Signals and Systems]({{< baseurl >}}/pages/signals-systems)
+{{% resource_link 85c1b0de-227d-e38d-9a55-dc7008c03de7 "Signals and Systems" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 S
@@ -95,7 +105,7 @@ S
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Systems and Labs ([2004]({{< baseurl >}}/pages/systems-labs-04) / [2006]({{< baseurl >}}/pages/systems-labs-06))
+Systems and Labs ([2004]({{< baseurl >}}/pages/systems-labs-04) / {{% resource_link 1f88d71a-9054-37a1-8163-daf60a1dd696 "2006" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 S/L
@@ -104,9 +114,9 @@ S/L
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Thermodynamics]({{< baseurl >}}/pages/thermo-propulsion)  
+{{% resource_link 05b2ba63-43e4-3028-bad4-cdf50e0b363a "Thermodynamics" %}}  
   
-[Propulsion]({{< baseurl >}}/pages/thermo-propulsion)
+{{% resource_link 05b2ba63-43e4-3028-bad4-cdf50e0b363a "Propulsion" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 T  
@@ -117,7 +127,7 @@ P
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Unified Concepts]({{< baseurl >}}/pages/unified-concepts)
+{{% resource_link 327c8fbc-0586-3637-4667-dc2437a7f1eb "Unified Concepts" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 U
@@ -135,7 +145,7 @@ ABBREVIATIONS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Homework]({{< baseurl >}}/pages/assignments)
+{{% resource_link a6eb2151-6f41-806d-94ff-dc83eb5f4337 "Homework" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 HW
@@ -144,7 +154,7 @@ HW
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Systems Problems ([2004]({{< baseurl >}}/pages/systems-labs-04) / [2006]({{< baseurl >}}/pages/systems-labs-06))
+Systems Problems ([2004]({{< baseurl >}}/pages/systems-labs-04) / {{% resource_link 1f88d71a-9054-37a1-8163-daf60a1dd696 "2006" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 SP
@@ -153,7 +163,7 @@ SP
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Quizzes]({{< baseurl >}}/pages/exams)
+{{% resource_link dc102ab9-fad7-5fe0-6da4-e71c66aab8ef "Quizzes" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Q
@@ -166,9 +176,9 @@ Q
 {{< anchor "pdf" >}}{{< /anchor >}}Course Calendar (PDF Format)
 ---------------------------------------------------------------
 
-16.01-16.02, Fall 2005 ([PDF]({{< baseurl >}}/resources/calendar_fal2005))
+16.01-16.02, Fall 2005 ({{% resource_link 3e0dedf9-d04e-28e3-f6c4-a5146eb8102f "PDF" %}})
 
-16.03-16.04, Spring 2006 ([PDF]({{< baseurl >}}/resources/calendar_spr2006))
+16.03-16.04, Spring 2006 ({{% resource_link 0eb7e45d-8311-37b6-644d-a1e2f1a5c72e "PDF" %}})
 
 {{< anchor "html" >}}{{< /anchor >}}Course Calendar (HTML Format)
 -----------------------------------------------------------------
@@ -201,7 +211,7 @@ FRIDAY
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 1
 {{< thclose >}}
 
@@ -293,7 +303,7 @@ S/L1 out
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 2
 {{< thclose >}}
 
@@ -383,7 +393,7 @@ S/L1 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 3
 {{< thclose >}}
 
@@ -473,7 +483,7 @@ S/L2 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 4
 {{< thclose >}}
 
@@ -563,7 +573,7 @@ S/L3 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 5
 {{< thclose >}}
 
@@ -653,7 +663,7 @@ S/L4 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 6
 {{< thclose >}}
 
@@ -743,7 +753,7 @@ S/L5 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 7
 {{< thclose >}}
 
@@ -833,7 +843,7 @@ S/L6 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 8
 {{< thclose >}}
 
@@ -923,7 +933,7 @@ S/L7 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 9
 {{< thclose >}}
 
@@ -1013,7 +1023,7 @@ S/L8 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 10
 {{< thclose >}}
 
@@ -1103,7 +1113,7 @@ S/L9 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 11
 {{< thclose >}}
 
@@ -1193,7 +1203,7 @@ S/L10 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 12
 {{< thclose >}}
 
@@ -1283,7 +1293,7 @@ HW 11 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 13
 {{< thclose >}}
 
@@ -1373,7 +1383,7 @@ S/L11 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 14
 {{< thclose >}}
 
@@ -1463,7 +1473,7 @@ HW 13 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 15
 {{< thclose >}}
 
@@ -1553,7 +1563,7 @@ HW 15 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Finals Week
 {{< thclose >}}
 
@@ -1673,7 +1683,7 @@ FRIDAY
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 1
 {{< thclose >}}
 
@@ -1766,7 +1776,7 @@ S/L1 out
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 2
 {{< thclose >}}
 
@@ -1856,7 +1866,7 @@ S/L1 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 3
 {{< thclose >}}
 
@@ -1948,7 +1958,7 @@ S/L2 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 4
 {{< thclose >}}
 
@@ -2038,7 +2048,7 @@ S/L3 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 5
 {{< thclose >}}
 
@@ -2128,7 +2138,7 @@ S/L4 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 6
 {{< thclose >}}
 
@@ -2218,7 +2228,7 @@ S/L5 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 7
 {{< thclose >}}
 
@@ -2308,7 +2318,7 @@ S/L6 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 8
 {{< thclose >}}
 
@@ -2398,7 +2408,7 @@ S/L7 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 9
 {{< thclose >}}
 
@@ -2488,7 +2498,7 @@ S/L8 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 10
 {{< thclose >}}
 
@@ -2578,7 +2588,7 @@ S/L9 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 11
 {{< thclose >}}
 
@@ -2670,7 +2680,7 @@ S/L10 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 12
 {{< thclose >}}
 
@@ -2760,7 +2770,7 @@ S/L11 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 13
 {{< thclose >}}
 
@@ -2850,7 +2860,7 @@ HW 12 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Week 14
 {{< thclose >}}
 
@@ -2940,7 +2950,7 @@ HW 14 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="6" >}}
 Finals Week
 {{< thclose >}}
 
