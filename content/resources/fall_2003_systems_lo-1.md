@@ -2,6 +2,7 @@
 content_type: resource
 description: Learning objectives for the course.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/0cf7d7e5889adfc32e8850a3f6c40930_fall_2003_systems_lo.pdf
+file_size: 19624
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

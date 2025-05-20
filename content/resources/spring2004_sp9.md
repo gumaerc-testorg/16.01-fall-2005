@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on problem set for propulsion, payload,
   operations validation and system acceptance.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/547e9af327cdae03346f3c3c9c22c885_spring2004_sp9.pdf
+file_size: 37980
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

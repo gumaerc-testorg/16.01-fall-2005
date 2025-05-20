@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains concept questions and answers based on clamped-free
   and eccentrically end-loaded.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/1bd7bbc11495ed5027f2906fbf9f851c_prsm13.pdf
+file_size: 129040
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

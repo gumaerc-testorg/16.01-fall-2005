@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture 15 (2003) presentation.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/ca8f1e6fa0aa767838719e029fbf047e_15_matrices.pdf
+file_size: 101508
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -6,6 +6,7 @@ description: 'This file includes solutions for problems on pressure, work done, 
 
   constant pressure expansion, and isothermal compression.'
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/19534c4c4567eadd4b27ca741bf5c129_pset2_sol.pdf
+file_size: 487393
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: Handwritten lecture notes on RLC Circuits.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/a9b5ffcd79cb8d7f000a32def59df03c_s09_lec.pdf
+file_size: 57317
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information on system problem report sheet.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/9c95744407b456c71cec82f7d508d09f_sp9_report1.pdf
+file_size: 59323
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -3,6 +3,7 @@ content_type: resource
 description: This handout contains the Problem set based on arrays and bubble sort
   algorithm.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/e85e702e56ff611b2ad2776317a07a0a_c14_ps06_fall03.pdf
+file_size: 21961
 file_type: application/pdf
 learning_resource_types:
 - Assignments

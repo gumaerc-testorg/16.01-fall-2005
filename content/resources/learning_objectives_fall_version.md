@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the learning objectives, measurable outcomes and assessment
   strategies for this course.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/46fe6205220249a524420e57709aab87_learning_objectives_fall_version.pdf
+file_size: 19529
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

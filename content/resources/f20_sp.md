@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information on the topic of Laval Nozzle Flows.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/9fb00fb3c4d38fadaa65c21f7ba2ce92_f20_sp.pdf
+file_size: 104548
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

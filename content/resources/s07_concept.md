@@ -2,6 +2,7 @@
 content_type: resource
 description: Concept questions based on thevenin circuit.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/9e52b1710e014dfb3da4f44af116eac7_s07_concept.pdf
+file_size: 80648
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

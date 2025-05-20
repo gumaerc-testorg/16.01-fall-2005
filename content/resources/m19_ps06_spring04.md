@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides a problem set based on power density, critical
   crack size, and usage of damage tolerant design approach.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/ae339e47fbf1a9fa04c803713e2f3c9c_m19_ps06_spring04.pdf
+file_size: 77850
 file_type: application/pdf
 learning_resource_types:
 - Assignments

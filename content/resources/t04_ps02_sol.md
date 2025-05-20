@@ -2,6 +2,7 @@
 content_type: resource
 description: Hand written solution of problem Unified T4.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/f040dca793cbeb4049ae577a91ac6984_t04_ps02_sol.pdf
+file_size: 430852
 file_type: application/pdf
 learning_resource_types:
 - Assignments

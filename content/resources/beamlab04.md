@@ -6,6 +6,7 @@ description: This lab is designed to provide you with an opportunity to verify t
   of three related experiments, each of which probes one of the predictions of beam
   theory.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/dc54588b34be6c3b7cce7d8cee75df5f_beamlab04.pdf
+file_size: 147832
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

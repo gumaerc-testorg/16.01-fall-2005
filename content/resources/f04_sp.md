@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information on the topic of thin airfoil theory
   application: analysis example.'
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/8d40a37bb73f450ae132d53dc4bc8cf7_f04_sp.pdf
+file_size: 85314
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

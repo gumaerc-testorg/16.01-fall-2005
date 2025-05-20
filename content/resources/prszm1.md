@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains concept questions and answers based on designing
   commercial aerospace vehicles, weight and Hooke's law.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/ecc5828d56334e2ab63129878930f58a_prszm1.pdf
+file_size: 28643
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

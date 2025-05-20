@@ -2,6 +2,7 @@
 content_type: resource
 description: Reflective Memo from Fall 1999.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/8b0002896790e9ab5eaad9375afd9d13_acr27a.jpg
+file_size: 40792
 file_type: image/jpeg
 image_metadata:
   caption: ''

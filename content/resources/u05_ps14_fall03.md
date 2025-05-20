@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set on course evaluation survey available online.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/1f68ef3ef9b754ad172cfaf8841157dc_u05_ps14_fall03.pdf
+file_size: 11430
 file_type: application/pdf
 learning_resource_types:
 - Assignments

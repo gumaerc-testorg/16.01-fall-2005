@@ -4,6 +4,7 @@ description: This resource provides solutions to problem set on Young's modulus 
   a homogenous material, glass transition temperature of a polymer, and interatomic
   bonds.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/a2c3f3b18ad4016c6a198f6287803cd8_m18_ps13_sol.pdf
+file_size: 24970
 file_type: application/pdf
 learning_resource_types:
 - Assignments

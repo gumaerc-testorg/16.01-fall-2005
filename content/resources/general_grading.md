@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the grading criteria for the course.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/6f4274410e7deee8a6a4fee18a82efa5_general_grading.pdf
+file_size: 15520
 file_type: application/pdf
 learning_resource_types:
 - Assignments

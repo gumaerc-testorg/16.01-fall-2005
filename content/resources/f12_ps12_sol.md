@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains handwritten solutions to the given problem set
   on flows and velocity fields.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/e0fd19c3630bf9507bdbfbbb0ab7242e_f12_ps12_sol.pdf
+file_size: 45577
 file_type: application/pdf
 learning_resource_types:
 - Assignments

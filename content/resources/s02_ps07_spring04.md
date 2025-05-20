@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains problem set 2 which discusses about unified?engineering?II.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/d13a8f2f43c40fea94c8dd75c6478c1d_s02_ps07_spring04.pdf
+file_size: 48093
 file_type: application/pdf
 learning_resource_types:
 - Assignments

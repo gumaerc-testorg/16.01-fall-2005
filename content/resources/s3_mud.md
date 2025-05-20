@@ -2,6 +2,7 @@
 content_type: resource
 description: Review questions and answers on nose method.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/31bd8753ca9f7cf5a84888c23b6b1fa8_S3_mud.pdf
+file_size: 111813
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

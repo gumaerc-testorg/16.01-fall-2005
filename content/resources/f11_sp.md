@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on the topic of Introduction to Compressible
   Flows and Thermodynamics Concepts.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/f6e317e1b0b600242b2877ad691bc938_f11_sp.pdf
+file_size: 83718
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains a problem on 2-D planar truss.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/ba60092efaecf5c58921a6321bc0f549_m05_ps08_fall03.pdf
+file_size: 40412
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -3,6 +3,7 @@ content_type: resource
 description: Concept questions on Amplitude Modulation with Carrier with their answers
   given.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/8d8ecf98aca887a804813336247c9e5f_s23_cgs.pdf
+file_size: 58035
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

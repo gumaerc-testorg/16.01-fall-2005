@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains a problem set based on two metals of interest
   for aerospace applications, nickel and magnesium.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/3a079e47a0eeef5b1c04c84fcbe26141_m24_ps15_fall03.pdf
+file_size: 64272
 file_type: application/pdf
 learning_resource_types:
 - Assignments

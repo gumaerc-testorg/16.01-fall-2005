@@ -2,6 +2,7 @@
 content_type: resource
 description: Procedures for drawing pictures on ANSI Terminal Screen
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/d0e6d12828d9b1429f52712db59fc70e_screen.ads
+file_size: 1017
 file_type: text/plain
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

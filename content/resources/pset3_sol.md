@@ -3,6 +3,7 @@ content_type: resource
 description: This file includes solutions to problems on thermodynamic cycle, work
   done, velocity, static temperature and Mach number.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/160c7a6f9968904ad3bed3c60c88b9fa_pset3_sol.pdf
+file_size: 486253
 file_type: application/pdf
 learning_resource_types:
 - Assignments

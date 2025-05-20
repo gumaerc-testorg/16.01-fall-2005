@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains concepts questions for the lectures F1 to F11.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/5fe1d5080fdfc7a61362e498889356c8_lec_1_11_concept.pdf
+file_size: 199990
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

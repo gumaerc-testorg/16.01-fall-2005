@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set regarding implementation of type?of?single?sideband?amplitude?modulation.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/cc145a21151379e769bcdb9fdb7ba702_s16_ps13_spring04.pdf
+file_size: 31256
 file_type: application/pdf
 learning_resource_types:
 - Assignments

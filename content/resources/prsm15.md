@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains concept questions and answers based on concept
   of structural integrity and stress-strain.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/424e85e4575417d0257515623e119538_prsm15.pdf
+file_size: 49074
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

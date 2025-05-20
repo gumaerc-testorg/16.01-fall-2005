@@ -3,6 +3,7 @@ content_type: resource
 description: This handout contains the  solutions for the Problem set based on the
   Minimum Spanning Tree and the best case and worst case computation complexity.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/b3aa8e1f3ea0bef43c29eb1f7cbd9d09_cp7_10_ps09_sol.pdf
+file_size: 135826
 file_type: application/pdf
 learning_resource_types:
 - Assignments

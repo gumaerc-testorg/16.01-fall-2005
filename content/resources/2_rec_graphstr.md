@@ -2,6 +2,7 @@
 content_type: resource
 description: Recitation lecture presentation.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/1dd1d28ec2466a4b6fa904db959190a1_2_rec_graphstr.pdf
+file_size: 177056
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

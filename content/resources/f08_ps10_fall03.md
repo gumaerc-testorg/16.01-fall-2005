@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains problems related to Wright Brothers wind tunnel.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/a0a7db4ef99a41bb644e4e03a0cadddf_f08_ps10_fall03.pdf
+file_size: 43674
 file_type: application/pdf
 learning_resource_types:
 - Assignments

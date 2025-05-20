@@ -5,6 +5,7 @@ description: Instructions for installing a program used in this course onto your
   Science Department's ftp site, or version 3.15 can be downloaded from the course
   website.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/8c721b591e17f8368d6a2a25f5bb5473_gnat_inst_instrc.pdf
+file_size: 237982
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

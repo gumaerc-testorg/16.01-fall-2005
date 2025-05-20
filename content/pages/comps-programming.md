@@ -216,7 +216,7 @@ Machine Language ({{% resource_link bad38792-bf94-5c7b-2dd0-592fd80e285a "PDF" %
 {{< tdopen >}}
 Machine Language Supplement ({{% resource_link 87885aa1-2753-853b-4f25-4fc24a35e504 "PDF" %}})  
   
-{{% resource_link "9ded2c54-052c-4503-8e10-d63acbe04b49" "The Simple Simulator" %}}
+[The Simple Simulator](http://www.anne-gert.nl/projects/simpsim/)
 {{< tdclose >}}
 {{< tdopen >}}
 ({{% resource_link a9a9e218-fa03-a55e-40d9-022712da8d7c "PDF" %}})
@@ -408,7 +408,7 @@ Ada: Matrices ({{% resource_link ca8f1e6f-a0aa-7678-3871-9e029fbf047e "PDF" %}})
 {{< tdopen >}}
 Matrix Supplement ({{% resource_link 6b6b0cfa-844d-47b2-0f91-a8a58ef91eaa "PDF" %}})  
   
-{{% resource_link "b39c9f3f-de4f-4813-afe7-a322c4856912" "Ada95 Matrix Package" %}}
+[Ada95 Matrix Package](http://stackoverflow.com/questions/3193180/ada-matrix-package)
 {{< tdclose >}}
 {{< tdopen >}}
 ({{% resource_link 20e266c9-404f-5f22-3741-82765c841928 "PDF" %}})
@@ -508,7 +508,7 @@ Ada: Overview ({{% resource_link a4f41805-0841-f274-4396-97ca41df6b45 "PDF" %}})
 {{< tdopen >}}
 ADA Tutorial Supplement  
   
-{{% resource_link "c26de839-87bc-417a-99ee-abe2ae6f1a02" "Cots Journal Online" %}}
+[Cots Journal Online](http://www.cotsjournalonline.com/)
 {{< tdclose >}}
 {{< tdopen >}}
 ({{% resource_link 57a87573-ca48-1aed-b5b0-6ef877cd324f "PDF" %}})
@@ -829,7 +829,7 @@ Solution C14 ({{% resource_link 8f80e7ce-ebe5-6ba0-490a-1af169ff8d16 "PDF" %}})
 C15
 {{< tdclose >}}
 {{< tdopen >}}
-Guest Lecturer: {{% resource_link "70d827c0-f698-4b41-83c7-b22f03446158" "Prof. Robert Dewar" %}}  
+Guest Lecturer: [Prof. Robert Dewar](http://www.cs.nyu.edu/cs/faculty/dewar/)  
   
 University of Chicago ({{% resource_link 6b7aae7d-c07d-c4c4-a512-7be8483ecfc9 "PDF" %}}) (Courtesy of Prof. Robert Dewar. Used with permission.)
 {{< tdclose >}}
@@ -1049,24 +1049,24 @@ GNAT installation instructions ({{% resource_link 8c721b59-1e17-f836-8d6a-2a25f5
 
 AdaGide instructions ({{% resource_link 310f3cca-615e-cfe2-007d-40c425e90b07 "PDF" %}})
 
-The Brookshear {{% resource_link "9ded2c54-052c-4503-8e10-d63acbe04b49" "Simple Simulator" %}} can be downloaded from the University of Twente.
+The Brookshear [Simple Simulator](http://www.anne-gert.nl/projects/simpsim/) can be downloaded from the University of Twente.
 
 ### Related ADA Resources
 
-The Ada 95 {{% resource_link "c9c25e2b-7dbf-4862-8f44-1501cad0ffc2" "Rationale" %}}
+The Ada 95 [Rationale](http://www.adahome.com/LRM/95/Rationale/rat95html/rat95-contents.html)
 
-The Ada 95 {{% resource_link "6f288c8c-ba02-4315-8e92-2e4fb340cf33" "Language Reference Manual" %}}
+The Ada 95 [Language Reference Manual](http://www.adahome.com/rm95/)
 
-The Ada {{% resource_link "417ec937-42eb-412f-ada4-bdc5e0e26149" "Style Guide" %}}
+The Ada [Style Guide](http://en.wikibooks.org/wiki/Ada_Style_Guide)
 
-GNAT {{% resource_link "7639d097-d8c2-451b-af2c-618524561a7b" "Reference Manual" %}}
+GNAT [Reference Manual](http://gcc.gnu.org/onlinedocs/gnat_rm/)
 
-Ada {{% resource_link "e0647400-4a42-48b2-b49d-acf36980e4a0" "Information Clearinghouse" %}}
+Ada [Information Clearinghouse](http://www.adaic.com/)
 
-Home of the Brave Ada Programmers - {{% resource_link "a28703b8-7455-4edd-9266-4977af173ee2" "HBAP" %}}
+Home of the Brave Ada Programmers - [HBAP](http://www.adahome.com/)
 
-{{% resource_link "50ce410e-0d29-4e44-8e89-1b7f89b03999" "AdaPower" %}}
+[AdaPower](http://www.adapower.com/)
 
-Ada Core Technologies - {{% resource_link "1a4a75f9-0c5a-4cfb-ab0a-a0da6df03184" "ACT" %}}
+Ada Core Technologies - [ACT](http://www.gnat.com/)
 
-{{% resource_link "44125e53-1fdc-48b4-983e-7cd1f75e6454" "comp.lang.ada" %}}
+[comp.lang.ada](http://groups.google.com/group/comp.lang.ada/topics)

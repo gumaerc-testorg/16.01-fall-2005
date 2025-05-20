@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains a problem set based on Young's modulus for epoxy
   (a thermosetting polymer).
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/8447288d5a53667fc0aede95a97a0321_m21_ps14_fall03.pdf
+file_size: 102344
 file_type: application/pdf
 learning_resource_types:
 - Assignments
