@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture 7 (2003) presentation.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/bad38792bf945c7b2dd0592fd80e285a_7_assembly.pdf
+file_size: 107896
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

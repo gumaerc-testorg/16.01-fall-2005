@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set on propulsion,L/D.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/dbc16000e66da565350b23d47475b198_u01_ps01_fall03.pdf
+file_size: 11071
 file_type: application/pdf
 learning_resource_types:
 - Assignments

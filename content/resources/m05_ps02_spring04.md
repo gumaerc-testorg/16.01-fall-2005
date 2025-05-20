@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains problem related to flexural stiffness, deflection
   and bending moment.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/1002d1af24d731b2a9009545ec706dce_m05_ps02_spring04.pdf
+file_size: 80302
 file_type: application/pdf
 learning_resource_types:
 - Assignments

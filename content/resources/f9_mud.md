@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource provides information on the topic of Momentum Theorem Applications.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/5db93b879389ae13be96961f0852f43e_f9_mud.pdf
+file_size: 37991
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -3,6 +3,7 @@ content_type: resource
 description: Concept questions verifying the understanding about the Impulse Response
   of RL Circuit.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/4feaa775ce87fbbe7283f4735d3ac7ff_s09_cgs.pdf
+file_size: 42737
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

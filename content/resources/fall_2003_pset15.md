@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains problems on velocity using sheet-jump relations
   and first principles.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/8f79369a095315ceff424fff6a04bfc8_fall_2003_pset15.pdf
+file_size: 260486
 file_type: application/pdf
 learning_resource_types:
 - Assignments

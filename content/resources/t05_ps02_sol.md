@@ -3,6 +3,7 @@ content_type: resource
 description: 'Problem set solution on adiabatic expansion, 2-3: constant volume heat
   addition, constant pressure expansion, isothermal compression.'
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/635f1af7c50d65ec16ad6124d0415c26_t05_ps02_sol.pdf
+file_size: 43391
 file_type: application/pdf
 learning_resource_types:
 - Assignments

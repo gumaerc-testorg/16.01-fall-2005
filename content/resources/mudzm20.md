@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains review questions and answers based on uniaxial
   stress and strain, isotropic material, transverse isotropic, crystallography.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/d6df996d78071ae51ff72f6075abc194_mudzm20.pdf
+file_size: 74425
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

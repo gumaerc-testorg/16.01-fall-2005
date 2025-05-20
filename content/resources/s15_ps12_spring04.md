@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set S15 involving Fourier Transform and inverse Fourier transform.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/7c396184fd770e20b97b6719881e1805_s15_ps12_spring04.pdf
+file_size: 47813
 file_type: application/pdf
 learning_resource_types:
 - Assignments

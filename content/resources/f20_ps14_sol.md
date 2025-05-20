@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains handwritten solutions to the given problem set
   on velocity.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/743a097eabf6e0d336cf6978e7cbef2b_f20_ps14_sol.pdf
+file_size: 32954
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -3,6 +3,7 @@ content_type: resource
 description: This file explains forms of First law of thermodynamics,Expressions of
   work.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/8dda908d284bcd5e490c8403e641819f_equationcompendium.pdf
+file_size: 54122
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

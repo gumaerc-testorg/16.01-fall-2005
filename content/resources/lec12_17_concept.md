@@ -2,6 +2,7 @@
 content_type: resource
 description: Review questions.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/3c4181d80290f7c46c69e35935e72251_lec12_17_concept.pdf
+file_size: 72552
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

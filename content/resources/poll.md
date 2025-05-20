@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains self-assessment survey results.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/02b574b383ea7244016321c567bae597_poll.pdf
+file_size: 29889
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

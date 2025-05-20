@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set regarding robust algorithm,Ada95 program.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/323be974f0fbcb8dd4842a996d08582c_spring04_pset11.pdf
+file_size: 203421
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains hand written solution to problem T11.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/940a1e8670eeb132b331df1b717bc976_t11_ps04_sol.pdf
+file_size: 255425
 file_type: application/pdf
 learning_resource_types:
 - Assignments

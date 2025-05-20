@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set regarding Signals and System.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/b15c56cdef8602823634ab83620d1e2e_s18_ps13_spring04.pdf
+file_size: 26328
 file_type: application/pdf
 learning_resource_types:
 - Assignments

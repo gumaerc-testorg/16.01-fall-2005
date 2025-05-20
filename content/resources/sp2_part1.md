@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on teamwork exercise, problem set
   1.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/c3d2137a3a6caa1c8fa52a52a4856824_sp2_part1.pdf
+file_size: 32410
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

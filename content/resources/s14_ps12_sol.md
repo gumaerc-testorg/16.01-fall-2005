@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains solutions to problem set S14.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/94edc2bd61fa2ae9fea0ac9aa7d22f11_s14_ps12_sol.pdf
+file_size: 258994
 file_type: application/pdf
 learning_resource_types:
 - Assignments

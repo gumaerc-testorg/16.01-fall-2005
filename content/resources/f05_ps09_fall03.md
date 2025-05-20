@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the problem set based on the aircraft and the
   Wright Brothers Wind Tunnel.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/569856de1d4fb26350cf0a3f888a8b80_f05_ps09_fall03.pdf
+file_size: 32734
 file_type: application/pdf
 learning_resource_types:
 - Assignments

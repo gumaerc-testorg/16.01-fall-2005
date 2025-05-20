@@ -2,6 +2,7 @@
 content_type: resource
 description: Materials and Structures quiz with solutions.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/006447eeb5c5290bcdc99cb62adcc376_fall_2003_q7m_sol.pdf
+file_size: 127144
 file_type: application/pdf
 learning_resource_types:
 - Exams

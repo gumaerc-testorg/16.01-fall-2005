@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains homogeneous solution, particular solution and total
   solution.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/be38ceb6afa2cde70bee5f9734f094ed_s01_ps07_sol.pdf
+file_size: 68977
 file_type: application/pdf
 learning_resource_types:
 - Assignments

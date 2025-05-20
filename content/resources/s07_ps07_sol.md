@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to problem set 7 based on loops.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/d4ea723e67b442122fe8a00013f08f4e_s07_ps07_sol.pdf
+file_size: 42729
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains a problem on absolute minimum daimeter.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/f470d0cbda95a2faef92849c49548fe6_f19_ps06_spring04.pdf
+file_size: 26898
 file_type: application/pdf
 learning_resource_types:
 - Assignments

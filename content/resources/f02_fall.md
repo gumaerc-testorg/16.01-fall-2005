@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides information on the topics of hydrostatic equation,
   manometer and buoyancy force.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/c1126a530528e858e56a41d7052e4126_f02_fall.pdf
+file_size: 53455
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

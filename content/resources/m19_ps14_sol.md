@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides solutions to problem set on number of independent
   engineering elastic constants and fibre volume fraction.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/0a83e2013b8003c5f57d32725816bcd8_m19_ps14_sol.pdf
+file_size: 50877
 file_type: application/pdf
 learning_resource_types:
 - Assignments

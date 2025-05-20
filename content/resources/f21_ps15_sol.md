@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains handwritten solutions to the given problem set
   on source-sheet model.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/f003555f8ce2428dac3675be1e2d1ed0_f21_ps15_sol.pdf
+file_size: 308097
 file_type: application/pdf
 learning_resource_types:
 - Assignments

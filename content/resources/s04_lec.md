@@ -2,6 +2,7 @@
 content_type: resource
 description: Handwritten lecture notes.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/74b35834dffa7202d05d9f9bf714846b_s04_lec.pdf
+file_size: 60667
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

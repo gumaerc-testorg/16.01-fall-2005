@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture 4 (2003) presentation.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/301e1b14953103cb0d254242c59da47c_4bitsbytesifthen.pdf
+file_size: 184965
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to problem set.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/78b1ab85eb79371a92c4d2914904efe1_s04_ps05_sol.pdf
+file_size: 992385
 file_type: application/pdf
 learning_resource_types:
 - Assignments

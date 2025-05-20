@@ -105,7 +105,7 @@ S
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Systems and Labs ([2004]({{< baseurl >}}/pages/systems-labs-04) / {{% resource_link 1f88d71a-9054-37a1-8163-daf60a1dd696 "2006" %}})
+Systems and Labs ({{% resource_link "87e8f47c-351c-ccd4-50e9-b5e03c5bbee2" "2004" %}} / {{% resource_link 1f88d71a-9054-37a1-8163-daf60a1dd696 "2006" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 S/L
@@ -154,7 +154,7 @@ HW
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Systems Problems ([2004]({{< baseurl >}}/pages/systems-labs-04) / {{% resource_link 1f88d71a-9054-37a1-8163-daf60a1dd696 "2006" %}})
+Systems Problems ({{% resource_link "87e8f47c-351c-ccd4-50e9-b5e03c5bbee2" "2004" %}} / {{% resource_link 1f88d71a-9054-37a1-8163-daf60a1dd696 "2006" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 SP

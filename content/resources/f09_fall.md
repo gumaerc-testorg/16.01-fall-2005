@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides information on the topic of Momentum-Integral
   Simplifications and its applications.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/854076a8dcb946adf46d8c8bf724b79a_f09_fall.pdf
+file_size: 78614
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
