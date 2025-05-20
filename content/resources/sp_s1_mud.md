@@ -2,6 +2,7 @@
 content_type: resource
 description: Review questions and answers.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/085daa9068511b84e7161e7343a8179a_sp_S1_mud.pdf
+file_size: 100729
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

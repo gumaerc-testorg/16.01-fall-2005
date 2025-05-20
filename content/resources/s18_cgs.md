@@ -2,6 +2,7 @@
 content_type: resource
 description: Concept questions on Measuring the Size of a Signal.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/2aff070d1c7341ff9cf9d871dbbbe30f_s18_cgs.pdf
+file_size: 70396
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

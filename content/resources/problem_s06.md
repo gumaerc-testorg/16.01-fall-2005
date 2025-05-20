@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/c78ea8c0cfea742f3c7d91414895f149_problem_s06.pdf
+file_size: 61977
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

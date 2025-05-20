@@ -2,6 +2,7 @@
 content_type: resource
 description: Concept questions.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/a492bd1a5efaddacc10fed706127f8b9_s06_cgs.pdf
+file_size: 40890
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

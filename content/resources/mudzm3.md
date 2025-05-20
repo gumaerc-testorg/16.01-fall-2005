@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains review questions and answers based on center of
   mass, centre of pressure, aerodynamics center and equilibrium equation.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/47969ec0e25cbd5e2c1776cb79637042_mudzm3.pdf
+file_size: 26946
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

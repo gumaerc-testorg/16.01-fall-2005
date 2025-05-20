@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains problems on the topic physically-possible flows.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/ee81f5cacae71b7c4f562405629acc89_f16_ps13_fall03.pdf
+file_size: 28900
 file_type: application/pdf
 learning_resource_types:
 - Assignments

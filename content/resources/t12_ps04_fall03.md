@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains problem set on reversibility and irreversibility
   of various thermodynamic processes.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/b738fc7289d10b532dea59605fe4d977_t12_ps04_fall03.pdf
+file_size: 9734
 file_type: application/pdf
 learning_resource_types:
 - Assignments

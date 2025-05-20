@@ -4,6 +4,7 @@ description: This resource contains handwritten solutions to the given problem s
   and providing the displacement diagram and information on net vertical flow, and
   equilibrium of moments.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/09bb01fe22c07e603c8fba6853419144_m12_ps04_sol.pdf
+file_size: 146413
 file_type: application/pdf
 learning_resource_types:
 - Assignments

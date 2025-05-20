@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains solutions to problem set S14 involving State Equations
   for Circuits with Sources.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/e02ccdb88c8f1130685ab5ef5a731a76_s14_ps09_sol.pdf
+file_size: 88090
 file_type: application/pdf
 learning_resource_types:
 - Assignments

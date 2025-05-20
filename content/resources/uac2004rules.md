@@ -7,6 +7,7 @@ description: This resource contains information on rules for the end of semester
   trades between payload, endurance, maneuverability and durability, subject to the
   constraints and objectives of the aerial competition.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/9953fd4ea08ace5204473af434e6f47a_uac2004rules.pdf
+file_size: 24331
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

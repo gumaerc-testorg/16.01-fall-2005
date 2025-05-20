@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/93ca85f4e82cc3a47bd01ad46b308a8e_u04_ps14_fall03.pdf
+file_size: 6318
 file_type: application/pdf
 learning_resource_types:
 - Assignments

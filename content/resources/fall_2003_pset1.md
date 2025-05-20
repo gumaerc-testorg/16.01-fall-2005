@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains a problem on unified thermodynamics.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/311193eed160a0a689762759d9ae93b2_fall_2003_pset1.pdf
+file_size: 106680
 file_type: application/pdf
 learning_resource_types:
 - Assignments

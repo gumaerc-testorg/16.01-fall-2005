@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains reference to 2 problems from the text Anderson
   chapter 5.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/3f74e3291d4443af7d65abe15e11ed68_f06_ps02_spring04.pdf
+file_size: 21321
 file_type: application/pdf
 learning_resource_types:
 - Assignments

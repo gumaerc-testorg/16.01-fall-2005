@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains problems on source-sheet model.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/3cd1b61bc3c27414772fecd31918e4a2_f21_ps15_fall03.pdf
+file_size: 73209
 file_type: application/pdf
 learning_resource_types:
 - Assignments

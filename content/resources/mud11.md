@@ -2,6 +2,7 @@
 content_type: resource
 description: Instructor's response to 'Muddiest Part of the Lecture Cards'.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/d15914f34391b442972ed76a33b6f990_mud11.pdf
+file_size: 35745
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

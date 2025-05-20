@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture 22 (2004) presentation.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/1da84047a895a3170cef58f94bf611d1_22_proofsII.pdf
+file_size: 117900
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

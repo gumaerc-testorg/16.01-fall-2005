@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/e2d8688fd9c0a978fc2603b5efe07bee_good_mud.jpg
+file_size: 14598
 file_type: image/jpeg
 image_metadata:
   caption: ''

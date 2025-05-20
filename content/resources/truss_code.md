@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/f4f5f5547d12c2b0aaf9928272b1e305_Truss_Code.zip
+file_size: 14753
 file_type: application/zip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -3,6 +3,7 @@ content_type: resource
 description: This handout contains the solutions for the problem set based on factorial
   and fibonacci problems.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/bb90c03700a4ae2e8378eff6a223bf46_c12_ps05_sol.pdf
+file_size: 32200
 file_type: application/pdf
 learning_resource_types:
 - Assignments

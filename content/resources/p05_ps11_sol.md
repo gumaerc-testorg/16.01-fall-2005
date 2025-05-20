@@ -2,6 +2,7 @@
 content_type: resource
 description: Handwritten problem set solution.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/99826ed2364ddc76c312414cb3a5cb57_p05_ps11_sol.pdf
+file_size: 24560
 file_type: application/pdf
 learning_resource_types:
 - Assignments

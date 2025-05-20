@@ -2,6 +2,7 @@
 content_type: resource
 description: Diagram of Modular design of engine.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/8f579f0cfbf17297dda8bb76c850a93f_CFM_Engine.pdf
+file_size: 166316
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/1994a29a19b5f548b6c2ff6070107a93_mudart2.jpg
+file_size: 69880
 file_type: image/jpeg
 image_metadata:
   caption: ''

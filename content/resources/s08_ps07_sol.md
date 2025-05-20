@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes solutions to problem set S8.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/2ff4418e0d88974fb07ccd018208c710_s08_ps07_sol.pdf
+file_size: 46573
 file_type: application/pdf
 learning_resource_types:
 - Assignments

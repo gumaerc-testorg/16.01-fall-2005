@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains hand written solution of problem T9.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/107a7382e795f2a9692db40bb596fa8d_t09_ps03_sol.pdf
+file_size: 282261
 file_type: application/pdf
 learning_resource_types:
 - Assignments

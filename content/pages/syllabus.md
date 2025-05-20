@@ -111,7 +111,7 @@ S
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Systems and Labs]({{< baseurl >}}/pages/systems-labs-04)
+{{% resource_link "87e8f47c-351c-ccd4-50e9-b5e03c5bbee2" "Systems and Labs" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 S/L
@@ -181,7 +181,7 @@ Reading assignments for the lecture. These may be from published textbooks, or l
 
 ### Assignments / Solutions
 
-Work to be completed by students. Each lecture has one associated problem. The problem and its solution are linked in both the section table and in the {{% resource_link a6eb2151-6f41-806d-94ff-dc83eb5f4337 "assignments" %}} section. [Systems and Labs]({{< baseurl >}}/pages/systems-labs-04) assignments, or "Systems Problems", are larger in scope than individual problem set problems, and may be project-based or lab-based.
+Work to be completed by students. Each lecture has one associated problem. The problem and its solution are linked in both the section table and in the {{% resource_link a6eb2151-6f41-806d-94ff-dc83eb5f4337 "assignments" %}} section. {{% resource_link "87e8f47c-351c-ccd4-50e9-b5e03c5bbee2" "Systems and Labs" %}} assignments, or "Systems Problems", are larger in scope than individual problem set problems, and may be project-based or lab-based.
 
 ### Handouts / Supporting Files
 

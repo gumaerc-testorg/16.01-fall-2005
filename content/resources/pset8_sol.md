@@ -3,6 +3,7 @@ content_type: resource
 description: This file includes solutions to problems on statespace?equations, hydrostatic
   and state relations.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/ca7ca08fea7d95fe57929724190b39b4_pset8_sol.pdf
+file_size: 233464
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains handwritten solutions to the given problem set
   on equilibrium, extension and deflection.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/2b95cb342d0ec74d65c1fa6ea96c8cc6_m01_ps06_sol.pdf
+file_size: 53107
 file_type: application/pdf
 learning_resource_types:
 - Assignments

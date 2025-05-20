@@ -3,6 +3,7 @@ content_type: resource
 description: This handout contains the solutions for the problem set based on the
   Euler?s 2nd order integration.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/e1c9904590349231cef64f22cec7a8d0_c11_ps05_sol.pdf
+file_size: 106198
 file_type: application/pdf
 learning_resource_types:
 - Assignments

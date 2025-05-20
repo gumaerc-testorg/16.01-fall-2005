@@ -3,6 +3,7 @@ content_type: resource
 description: This handout contains the Problem set based on algorithms in the assembly
   language.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/d4122137478be88d0515871c65b80492_c07_ps03_fall03.pdf
+file_size: 11794
 file_type: application/pdf
 learning_resource_types:
 - Assignments

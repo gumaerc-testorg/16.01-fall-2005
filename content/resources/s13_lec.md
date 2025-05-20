@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on Solving a Linear Dynamic Network Using Eigenvalue Method.
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/3f243378a7b0b1ae1fd8d51ff9990a68_s13_lec.pdf
+file_size: 74656
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

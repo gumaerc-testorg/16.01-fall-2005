@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/d2ab397dcf05d86e3dc40ad4fa60fac6_QUIZrev2.gif
+file_size: 4150
 file_type: image/gif
 image_metadata:
   caption: ''
