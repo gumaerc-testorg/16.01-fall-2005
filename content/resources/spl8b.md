@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains notes for planform and dihedral considerations.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/919cfa4ebb7cbaf46679f0b13be6d222_spl8b.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/919cfa4ebb7cbaf46679f0b13be6d222_spl8b.pdf
 file_size: 37282
 file_type: application/pdf
 learning_resource_types: []

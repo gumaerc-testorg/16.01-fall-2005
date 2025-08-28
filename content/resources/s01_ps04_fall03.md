@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains problems on elimination of variables, Gaussian?reduction,
   and Cramer's rule.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/db9eb95126f951827efaef478e47eb0d_s01_ps04_fall03.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/db9eb95126f951827efaef478e47eb0d_s01_ps04_fall03.pdf
 file_size: 42500
 file_type: application/pdf
 learning_resource_types:

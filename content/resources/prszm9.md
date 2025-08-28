@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains concept questions and answers based on reaction
   forces.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/31d802f2a49673d641e61a7413df59bc_prszm9.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/31d802f2a49673d641e61a7413df59bc_prszm9.pdf
 file_size: 28154
 file_type: application/pdf
 learning_resource_types: []

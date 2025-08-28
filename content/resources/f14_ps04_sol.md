@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains handwritten solutions to the given problem set
   on Mach number and Mach limit.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/b4fa3a7c5309a6fcf25d9a028dd725bc_f14_ps04_sol.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/b4fa3a7c5309a6fcf25d9a028dd725bc_f14_ps04_sol.pdf
 file_size: 45775
 file_type: application/pdf
 learning_resource_types:

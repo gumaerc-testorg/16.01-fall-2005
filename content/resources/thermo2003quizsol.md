@@ -2,7 +2,7 @@
 content_type: resource
 description: Quiz problems with solutions based on laws of thermodynamics,enthalpy
   process.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/b552d41bcb16b702f41141fd71b0f50d_thermo2003quizsol.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/b552d41bcb16b702f41141fd71b0f50d_thermo2003quizsol.pdf
 file_size: 68563
 file_type: application/pdf
 learning_resource_types:

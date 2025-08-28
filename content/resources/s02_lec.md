@@ -2,7 +2,7 @@
 content_type: resource
 description: This file discusses about the voltage source, the current source, solving
   networks and Kirchhoff's laws.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/de37ee90eb6dd11a83f843bc264359e4_s02_lec.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/de37ee90eb6dd11a83f843bc264359e4_s02_lec.pdf
 file_size: 72626
 file_type: application/pdf
 learning_resource_types: []

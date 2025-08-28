@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problems on mass conservation law and materials
   and structures.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/414cc049fb3356fe07a6e5ab0c9fffaa_fall_2003_pset10.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/414cc049fb3356fe07a6e5ab0c9fffaa_fall_2003_pset10.pdf
 file_size: 168911
 file_type: application/pdf
 learning_resource_types:

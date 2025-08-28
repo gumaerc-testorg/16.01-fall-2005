@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on lecture presentation on engineering
   education and baseline assessment.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/30484fa74149f87b2e04a59602056a90_sp4lecture2.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/30484fa74149f87b2e04a59602056a90_sp4lecture2.pdf
 file_size: 66764
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set regarding searching,recurrence equation,Propulsion.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/f39f63523bd2a5865c75d775b0ab64ad_spring04_pset10.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/f39f63523bd2a5865c75d775b0ab64ad_spring04_pset10.pdf
 file_size: 201738
 file_type: application/pdf
 learning_resource_types:

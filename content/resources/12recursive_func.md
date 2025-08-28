@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture 12 (2003) presentation.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/2a7d03ab04ae0118dcf2d212db1c6fac_12recursive_func.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/2a7d03ab04ae0118dcf2d212db1c6fac_12recursive_func.pdf
 file_size: 62458
 file_type: application/pdf
 learning_resource_types: []

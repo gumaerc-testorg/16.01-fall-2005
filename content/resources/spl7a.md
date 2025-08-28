@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the notes on propeller performance.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/844abb8ac7b9e5a2afe1f51f32eb7772_spl7a.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/844abb8ac7b9e5a2afe1f51f32eb7772_spl7a.pdf
 file_size: 59483
 file_type: application/pdf
 learning_resource_types: []

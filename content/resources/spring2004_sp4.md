@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on performance assessment set.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/b45901709c72ec82fd892b500b793381_spring2004_sp4.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/b45901709c72ec82fd892b500b793381_spring2004_sp4.pdf
 file_size: 35450
 file_type: application/pdf
 learning_resource_types: []

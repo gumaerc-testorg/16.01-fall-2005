@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set with solutions provided by the professor.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/f588ff1c35c16fff0734693629e0b075_pset10_sol_04.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/f588ff1c35c16fff0734693629e0b075_pset10_sol_04.pdf
 file_size: 378932
 file_type: application/pdf
 learning_resource_types:

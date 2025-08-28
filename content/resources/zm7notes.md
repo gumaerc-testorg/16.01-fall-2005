@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource based on constitutive behavior and compatibility.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/01cc8bc2ab8191c3fde969350611bb71_zm7notes.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/01cc8bc2ab8191c3fde969350611bb71_zm7notes.pdf
 file_size: 414480
 file_type: application/pdf
 learning_resource_types: []

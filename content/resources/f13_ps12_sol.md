@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains handwritten solutions to the given problem set
   on sea-level wind speed.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/a0c14cd2a48f938940de31335c840659_f13_ps12_sol.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/a0c14cd2a48f938940de31335c840659_f13_ps12_sol.pdf
 file_size: 32217
 file_type: application/pdf
 learning_resource_types:

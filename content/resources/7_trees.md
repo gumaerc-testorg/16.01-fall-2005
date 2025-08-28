@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture 7 (2004) presentation.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/2ee16347df7a1ef7267b817c27e4e61b_7_trees.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/2ee16347df7a1ef7267b817c27e4e61b_7_trees.pdf
 file_size: 67018
 file_type: application/pdf
 learning_resource_types: []

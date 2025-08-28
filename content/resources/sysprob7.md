@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains the objectives and procedures for the topic: Detailed
   Wing Optimization.'
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/044bd628056ceec8b7adb93525467c93_sysprob7.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/044bd628056ceec8b7adb93525467c93_sysprob7.pdf
 file_size: 30951
 file_type: application/pdf
 learning_resource_types: []

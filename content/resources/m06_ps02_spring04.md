@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a problem related to designing a beam-like structure.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/fc37665509d9feef6da2fec53be270b1_m06_ps02_spring04.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/fc37665509d9feef6da2fec53be270b1_m06_ps02_spring04.pdf
 file_size: 90864
 file_type: application/pdf
 learning_resource_types:

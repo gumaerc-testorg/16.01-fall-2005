@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains handwritten solutions to the given problem set
   on designing a beam-like structure.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/47710ecd8f1e6cdcf10fd54655819633_m06_ps02_sol.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/47710ecd8f1e6cdcf10fd54655819633_m06_ps02_sol.pdf
 file_size: 128085
 file_type: application/pdf
 learning_resource_types:

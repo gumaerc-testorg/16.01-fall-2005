@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to problem set regarding Signals and system.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/d0be921a071ed41713792a13f931c97f_s18_ps13_sol.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/d0be921a071ed41713792a13f931c97f_s18_ps13_sol.pdf
 file_size: 676174
 file_type: application/pdf
 learning_resource_types:

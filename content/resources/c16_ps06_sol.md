@@ -2,7 +2,7 @@
 content_type: resource
 description: This handout contains the solutions for the problem set based on the
   aircraft problem.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/e3ad98bd25e93ec728cef60dd9fadb26_c16_ps06_sol.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/e3ad98bd25e93ec728cef60dd9fadb26_c16_ps06_sol.pdf
 file_size: 45623
 file_type: application/pdf
 learning_resource_types:

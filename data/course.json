@@ -67,12 +67,12 @@
   },
   "learning_resource_types": [
     "Lecture Videos",
-    "Course Introduction",
     "Competition Videos",
     "Problem Sets with Solutions",
     "Exams with Solutions"
   ],
   "site_uid": "b51a7887-101f-4e96-a07c-9e53c20bfeb6",
   "site_short_id": "16.01-fall-2005",
+  "site_url_path": "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006",
   "title": "Course Metadata"
 }

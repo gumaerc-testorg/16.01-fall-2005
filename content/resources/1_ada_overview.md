@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture 1 (2004) presentation.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/a4f418050841f274439697ca41df6b45_1_ada_overview.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/a4f418050841f274439697ca41df6b45_1_ada_overview.pdf
 file_size: 78527
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture 10 (2003) presentation.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/4963980ae433e4f64c30a22aea54004a_10_cndtnl_struct.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/4963980ae433e4f64c30a22aea54004a_10_cndtnl_struct.pdf
 file_size: 60898
 file_type: application/pdf
 learning_resource_types: []

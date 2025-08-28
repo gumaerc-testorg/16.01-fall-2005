@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handwritten lecture notes.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/9c181b82d966f0d3dedc33b7299c66d0_s15_lec.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/9c181b82d966f0d3dedc33b7299c66d0_s15_lec.pdf
 file_size: 66689
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture C2 file.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/9f4804d0482f446740e86b246d9ea549_screen.adb
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/9f4804d0482f446740e86b246d9ea549_screen.adb
 file_size: 3947
 file_type: text/plain
 learning_resource_types: []

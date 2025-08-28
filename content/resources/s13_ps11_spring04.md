@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes the problem set S13 involving smoother function?.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/30d9e30b8438cc740dc16a4c7a65e7a7_s13_ps11_spring04.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/30d9e30b8438cc740dc16a4c7a65e7a7_s13_ps11_spring04.pdf
 file_size: 62191
 file_type: application/pdf
 learning_resource_types:

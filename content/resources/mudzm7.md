@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains review questions and answers based on moment,
   force, compressive and tensile, method of structure.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/076a689ffb61593238faf3ff06e3cb31_mudzm7.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/076a689ffb61593238faf3ff06e3cb31_mudzm7.pdf
 file_size: 73991
 file_type: application/pdf
 learning_resource_types: []

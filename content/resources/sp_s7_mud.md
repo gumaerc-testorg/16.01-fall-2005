@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Review questions and answers.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/b20bbe4175de55238beaf3de2aeb187c_sp_S7_mud.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/b20bbe4175de55238beaf3de2aeb187c_sp_S7_mud.pdf
 file_size: 122433
 file_type: application/pdf
 learning_resource_types: []

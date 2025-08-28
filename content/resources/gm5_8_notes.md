@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on Simple Beam Theory.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/f66f80cd5fbd5cf8295d7b1e1e28a368_gm5_8_notes.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/f66f80cd5fbd5cf8295d7b1e1e28a368_gm5_8_notes.pdf
 file_size: 638068
 file_type: application/pdf
 learning_resource_types: []

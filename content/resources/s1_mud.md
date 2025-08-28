@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Review questions and answers on Responses?to?MuddiestPartoftheLecture?Cards.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/099bb889a363d3f66723ad16038f7daf_S1_mud.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/099bb889a363d3f66723ad16038f7daf_S1_mud.pdf
 file_size: 121559
 file_type: application/pdf
 learning_resource_types: []

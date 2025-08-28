@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains review questions and answers based on St. Venant's
   principle, boundary conditions, and details of load application.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/376605cdae616dc7bf909919be76079f_mudgm2.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/376605cdae616dc7bf909919be76079f_mudgm2.pdf
 file_size: 88443
 file_type: application/pdf
 learning_resource_types: []

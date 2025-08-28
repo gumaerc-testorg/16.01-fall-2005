@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains concept questions and answers based on buckling
   load.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/99dec618f03732f744146eea72959d5d_prsm12.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/99dec618f03732f744146eea72959d5d_prsm12.pdf
 file_size: 97087
 file_type: application/pdf
 learning_resource_types: []

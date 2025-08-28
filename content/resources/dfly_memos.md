@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on additional information on the lab
   assignment.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/76eb360514e729fcaf0432cb883f9d3e_dfly_memos.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/76eb360514e729fcaf0432cb883f9d3e_dfly_memos.pdf
 file_size: 26997
 file_type: application/pdf
 learning_resource_types: []

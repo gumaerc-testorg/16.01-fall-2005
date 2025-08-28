@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides a problem set based on damage tolerance requirements.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/cfb52f3f43021768ad240d8cfc5ff812_m18_ps05_spring04.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/cfb52f3f43021768ad240d8cfc5ff812_m18_ps05_spring04.pdf
 file_size: 63032
 file_type: application/pdf
 learning_resource_types:

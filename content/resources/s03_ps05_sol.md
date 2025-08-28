@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the solutions to the questions asked in signal and
   systems.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/f27d4b28dc9c1a9b4f9c8f89781ca8c3_s03_ps05_sol.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/f27d4b28dc9c1a9b4f9c8f89781ca8c3_s03_ps05_sol.pdf
 file_size: 57063
 file_type: application/pdf
 learning_resource_types:

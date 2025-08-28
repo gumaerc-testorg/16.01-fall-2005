@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on grading rubric for systems problems.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/2cfd0d36272b801c7f81aca8098bed23_sp2_2graderubric.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/2cfd0d36272b801c7f81aca8098bed23_sp2_2graderubric.pdf
 file_size: 29897
 file_type: application/pdf
 learning_resource_types: []

@@ -2,7 +2,7 @@
 content_type: resource
 description: This file explains Newton?s 2nd Law,PRODUCTION OF THRUST,OVERALL PROPULSION
   SYSTEM EFFICIENCY.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/100f026337caf8f3158e8caf456cc5ed_P3slides.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/100f026337caf8f3158e8caf456cc5ed_P3slides.pdf
 file_size: 303975
 file_type: application/pdf
 learning_resource_types: []

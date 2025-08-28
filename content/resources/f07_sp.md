@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides information on the topic of Elliptical Lift Distribution.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/a98434567bca8d3bd587e27aeb9aae77_f07_sp.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/a98434567bca8d3bd587e27aeb9aae77_f07_sp.pdf
 file_size: 93169
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes solutions to problem set S8.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/f78d410746628ca27617888c0221d5b0_s08_ps09_sol.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/f78d410746628ca27617888c0221d5b0_s08_ps09_sol.pdf
 file_size: 73221
 file_type: application/pdf
 learning_resource_types:

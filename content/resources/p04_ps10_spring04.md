@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/a962b93cc130a775115007d4075a730f_p04_ps10_spring04.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/a962b93cc130a775115007d4075a730f_p04_ps10_spring04.pdf
 file_size: 8396
 file_type: application/pdf
 learning_resource_types:

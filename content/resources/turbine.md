@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/f2556fafbbd4d8712f1ae16950a7c006_turbine.jpg
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/f2556fafbbd4d8712f1ae16950a7c006_turbine.jpg
 file_size: 13610
 file_type: image/jpeg
 image_metadata:

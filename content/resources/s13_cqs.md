@@ -2,7 +2,7 @@
 content_type: resource
 description: Concept questions on BIBO Stability, Recitation Exercises & Transfer
   Function of Smoother.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/b6a42c290bdda20b9612b77cd277006a_s13_cqs.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/b6a42c290bdda20b9612b77cd277006a_s13_cqs.pdf
 file_size: 110108
 file_type: application/pdf
 learning_resource_types: []

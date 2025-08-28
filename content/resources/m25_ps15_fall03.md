@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains a problem set based on polymers, thermosplastics
   and thermosets, and glass transition temperature.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/0380cebcf212e7f65ff0ca44aa07e738_m25_ps15_fall03.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/0380cebcf212e7f65ff0ca44aa07e738_m25_ps15_fall03.pdf
 file_size: 45498
 file_type: application/pdf
 learning_resource_types:

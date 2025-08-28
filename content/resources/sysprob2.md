@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/634f6a3b158d3d9910554035eee4d034_sysprob2.xls
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/634f6a3b158d3d9910554035eee4d034_sysprob2.xls
 file_size: 267264
 file_type: application/msword
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problems on equilibrium, extension and deflection.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/95f0af57cb1d62fb96da7ca89d34117e_m01_ps06_fall03.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/95f0af57cb1d62fb96da7ca89d34117e_m01_ps06_fall03.pdf
 file_size: 68331
 file_type: application/pdf
 learning_resource_types:

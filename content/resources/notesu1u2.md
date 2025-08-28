@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the outline for The Language of Engineering.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/7308730dd597147effd86103d795dab4_notesu1u2.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/7308730dd597147effd86103d795dab4_notesu1u2.pdf
 file_size: 193665
 file_type: application/pdf
 learning_resource_types: []

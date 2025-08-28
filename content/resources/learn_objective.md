@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/138b7c9a3040721a72bedab43a4fac28_learn_objective.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/138b7c9a3040721a72bedab43a4fac28_learn_objective.pdf
 file_size: 19355
 file_type: application/pdf
 learning_resource_types: []

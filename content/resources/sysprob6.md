@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the system problem based on rover software design.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/527df5181c6beafec2309cc655845fc5_sysprob6.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/527df5181c6beafec2309cc655845fc5_sysprob6.pdf
 file_size: 233995
 file_type: application/pdf
 learning_resource_types: []

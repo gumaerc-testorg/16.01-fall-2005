@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on the topic of Compressible Channel
   Flow.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/80217e8347e981e23f90537042280b8c_f19_sp.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/80217e8347e981e23f90537042280b8c_f19_sp.pdf
 file_size: 82168
 file_type: application/pdf
 learning_resource_types: []

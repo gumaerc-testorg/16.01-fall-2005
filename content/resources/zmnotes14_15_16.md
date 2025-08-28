@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource based on principal axes of stress.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/88137d7c8cdd0f245c9ee63fe5481c73_zmnotes14_15_16.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/88137d7c8cdd0f245c9ee63fe5481c73_zmnotes14_15_16.pdf
 file_size: 317871
 file_type: application/pdf
 learning_resource_types: []
