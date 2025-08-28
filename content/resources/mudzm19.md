@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains review questions and answers based on Young's
   modulus, notation, anisotropic materials, matrix.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/f09817a86ec6e33be74133b4cb3662d9_mudzm19.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/f09817a86ec6e33be74133b4cb3662d9_mudzm19.pdf
 file_size: 54314
 file_type: application/pdf
 learning_resource_types: []

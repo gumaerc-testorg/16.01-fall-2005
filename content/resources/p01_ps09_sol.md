@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource based on handwritten problem set solution.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/00efa33595548bd9af29845b3c23e866_p01_ps09_sol.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/00efa33595548bd9af29845b3c23e866_p01_ps09_sol.pdf
 file_size: 100996
 file_type: application/pdf
 learning_resource_types:

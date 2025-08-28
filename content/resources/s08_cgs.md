@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Concept questions.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/1e057e926b017038ee429c46016a2448_s08_cgs.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/1e057e926b017038ee429c46016a2448_s08_cgs.pdf
 file_size: 118789
 file_type: application/pdf
 learning_resource_types: []

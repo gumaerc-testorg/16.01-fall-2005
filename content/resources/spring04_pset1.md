@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Unified Engineering Spring 2004 Fluids Problems.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/ae28248133884a0735c0e0ae519acd0f_spring04_pset1.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/ae28248133884a0735c0e0ae519acd0f_spring04_pset1.pdf
 file_size: 226164
 file_type: application/pdf
 learning_resource_types:

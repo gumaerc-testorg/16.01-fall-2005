@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the solutions to the questions asked for range equation.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/8cb3fca9f97318db67414cba02360ba5_u01_ps01_sol.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/8cb3fca9f97318db67414cba02360ba5_u01_ps01_sol.pdf
 file_size: 26024
 file_type: application/pdf
 learning_resource_types: []

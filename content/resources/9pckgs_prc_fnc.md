@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture 9 (2003) presentation.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/610f7cc284e04e31708fe871054e4420_9pckgs_prc_fnc.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/610f7cc284e04e31708fe871054e4420_9pckgs_prc_fnc.pdf
 file_size: 32150
 file_type: application/pdf
 learning_resource_types: []

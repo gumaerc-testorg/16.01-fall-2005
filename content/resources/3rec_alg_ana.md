@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Recitation lecture presentation.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/126fc6436f1ee6d226ad43760555fe67_3rec_alg_ana.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/126fc6436f1ee6d226ad43760555fe67_3rec_alg_ana.pdf
 file_size: 123230
 file_type: application/pdf
 learning_resource_types: []

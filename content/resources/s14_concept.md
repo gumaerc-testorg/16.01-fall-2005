@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Concept questions on Signal representation in sine and cosines.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/29fe9a327b904ed693b3d718b59bb7a2_s14_concept.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/29fe9a327b904ed693b3d718b59bb7a2_s14_concept.pdf
 file_size: 127074
 file_type: application/pdf
 learning_resource_types: []

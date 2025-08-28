@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains review questions and answers based on beam theory,
   transverse loads, straight, slender, symmetric, members, linear elastic materials,
   small deflections.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/a088db5539af4f5d70a6b51e6aee322d_mudgm9.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/a088db5539af4f5d70a6b51e6aee322d_mudgm9.pdf
 file_size: 143778
 file_type: application/pdf
 learning_resource_types: []

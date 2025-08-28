@@ -3,7 +3,7 @@ content_type: resource
 description: 'Review questions and answers on how?to?
 
   find?the?time?response?of?RC?circuits?to?initial?conditions.'
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/13bfd9b9e11b3facc1b3300940975b43_S9_mud.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/13bfd9b9e11b3facc1b3300940975b43_S9_mud.pdf
 file_size: 128801
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture 6 (2004) presentation.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/88421ff0ef3219e7f9183dd2fcf555c1_6_graphs.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/88421ff0ef3219e7f9183dd2fcf555c1_6_graphs.pdf
 file_size: 166265
 file_type: application/pdf
 learning_resource_types: []

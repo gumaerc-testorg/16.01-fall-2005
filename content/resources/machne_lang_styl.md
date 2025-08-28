@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture C7 handout.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/87885aa12753853b4f254fc24a35e504_machne_lang_styl.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/87885aa12753853b4f254fc24a35e504_machne_lang_styl.pdf
 file_size: 43178
 file_type: application/pdf
 learning_resource_types: []

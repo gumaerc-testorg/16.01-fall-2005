@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problems on drag polar.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/e5596ba95b7396c05f571d5b20269dab_f22_ps15_fall03.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/e5596ba95b7396c05f571d5b20269dab_f22_ps15_fall03.pdf
 file_size: 55393
 file_type: application/pdf
 learning_resource_types:

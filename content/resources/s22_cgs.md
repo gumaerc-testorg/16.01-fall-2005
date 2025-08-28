@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Concept questions on Coherent Demodulation with their answers given.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/fee87dd2e206b47be6495e03ac022fc1_s22_cgs.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/fee87dd2e206b47be6495e03ac022fc1_s22_cgs.pdf
 file_size: 69306
 file_type: application/pdf
 learning_resource_types: []

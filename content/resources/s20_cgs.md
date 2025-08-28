@@ -3,7 +3,7 @@ content_type: resource
 description: 'Concept questions on Duration-Bandwidth
 
   Product.'
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/6f8ca3e7926f517fed12f76e68776852_s20_cgs.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/6f8ca3e7926f517fed12f76e68776852_s20_cgs.pdf
 file_size: 46874
 file_type: application/pdf
 learning_resource_types: []

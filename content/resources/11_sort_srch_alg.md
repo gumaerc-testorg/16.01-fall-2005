@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture 11 (2004) presentation.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/3ad763b7b19e1dbab8a02122926b2d81_11_sort_srch_alg.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/3ad763b7b19e1dbab8a02122926b2d81_11_sort_srch_alg.pdf
 file_size: 83777
 file_type: application/pdf
 learning_resource_types: []

@@ -2,7 +2,7 @@
 content_type: resource
 description: This handout contains solutions to the Problem set C2 based on the Feldman
   spider package.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/bf7d06b3991647bbe471cf5f122f41a0_c02_ps02_sol.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/bf7d06b3991647bbe471cf5f122f41a0_c02_ps02_sol.pdf
 file_size: 29485
 file_type: application/pdf
 learning_resource_types:

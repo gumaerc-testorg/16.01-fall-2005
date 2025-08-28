@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains review questions and answers based on carbon nano-tubes,
   and Tresca and Vona Mises multiaxial yield criteria.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/766d91362beb813ecb8027164891fa71_mudgm17.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/766d91362beb813ecb8027164891fa71_mudgm17.pdf
 file_size: 288571
 file_type: application/pdf
 learning_resource_types: []

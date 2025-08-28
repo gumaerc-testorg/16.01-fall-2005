@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains notes for the objectives, files and overview for Graphical
   Priority Queue.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/ffbcf3faffad503a49dcf71cbba47c4f_spr_sysprob5.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/ffbcf3faffad503a49dcf71cbba47c4f_spr_sysprob5.pdf
 file_size: 226019
 file_type: application/pdf
 learning_resource_types: []

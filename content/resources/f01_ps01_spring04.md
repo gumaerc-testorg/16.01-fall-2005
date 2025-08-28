@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the problem set based on aircraft.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/ba990bf2b395ede03be2caead01bc5dc_f01_ps01_spring04.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/ba990bf2b395ede03be2caead01bc5dc_f01_ps01_spring04.pdf
 file_size: 42531
 file_type: application/pdf
 learning_resource_types:

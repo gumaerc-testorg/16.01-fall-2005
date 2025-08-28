@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains a problem set based on mean stress, cyclic stress,
   and unsteady aerodynamic loading.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/a1b82a0aa64029e6416c3d5f97e0993b_m20_ps06_spring04.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/a1b82a0aa64029e6416c3d5f97e0993b_m20_ps06_spring04.pdf
 file_size: 73512
 file_type: application/pdf
 learning_resource_types:

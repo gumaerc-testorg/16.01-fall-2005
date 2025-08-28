@@ -2,7 +2,7 @@
 content_type: resource
 description: This file includes solutions to problems on minimum spanning tree, bubble
   sort algorithm, propulsion, convolution, ambiguity function, and Laplace transform.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/e4eb0aee3ac7ce2f10752e610e5ceea4_pset9_sol_04.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/e4eb0aee3ac7ce2f10752e610e5ceea4_pset9_sol_04.pdf
 file_size: 538859
 file_type: application/pdf
 learning_resource_types:

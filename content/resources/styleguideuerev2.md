@@ -4,7 +4,7 @@ description: 'This document offers guidelines for writing, formatting, and citin
   sources for deliverables
 
   required in 16.62X experimental projects lab.'
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/9b70013b752d0b3b82f118de640f646b_styleguideuerev2.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/9b70013b752d0b3b82f118de640f646b_styleguideuerev2.pdf
 file_size: 93745
 file_type: application/pdf
 learning_resource_types: []

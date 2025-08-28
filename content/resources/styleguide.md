@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the Style Guide for 16.62x Experimental Projects.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/763c8a71f9bfa199d7a16c9fdc21808b_styleguide.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/763c8a71f9bfa199d7a16c9fdc21808b_styleguide.pdf
 file_size: 136401
 file_type: application/pdf
 learning_resource_types: []

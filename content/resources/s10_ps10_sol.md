@@ -2,7 +2,7 @@
 content_type: resource
 description: Solutions to problem set involving five questions on partial fraction
   of transforms.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/7d7d706c68ba2a31174f9eda079a89fc_s10_ps10_sol.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/7d7d706c68ba2a31174f9eda079a89fc_s10_ps10_sol.pdf
 file_size: 86865
 file_type: application/pdf
 learning_resource_types:

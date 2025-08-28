@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the guidelines for writing lab reports.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/7b1fb14b0bb9c2ad7721f0107993ed88_guidelines.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/7b1fb14b0bb9c2ad7721f0107993ed88_guidelines.pdf
 file_size: 19932
 file_type: application/pdf
 learning_resource_types: []

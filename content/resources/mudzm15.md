@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains review questions and answers based on principle
   stress, mohr's circle, muddy, soccer.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/f7a0be14cd5721525f60b4ee21cc8070_mudzm15.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/f7a0be14cd5721525f60b4ee21cc8070_mudzm15.pdf
 file_size: 199163
 file_type: application/pdf
 learning_resource_types: []

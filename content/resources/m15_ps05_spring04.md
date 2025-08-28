@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problems based on edge dislocations, aerospace
   structures and the dependence of hardness on time of exposure to heat.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/3d8476126c87cbd9931d2fcece6270f6_m15_ps05_spring04.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/3d8476126c87cbd9931d2fcece6270f6_m15_ps05_spring04.pdf
 file_size: 63911
 file_type: application/pdf
 learning_resource_types:

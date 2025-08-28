@@ -2,7 +2,7 @@
 content_type: resource
 description: The introductory lecture for this course. The structure of the course
   and course requirements are discussed.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/71194e1acb081bf67cd013b4a9271b16_unified_lecture_u1.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/71194e1acb081bf67cd013b4a9271b16_unified_lecture_u1.pdf
 file_size: 436373
 file_type: application/pdf
 learning_resource_types: []

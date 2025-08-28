@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problem set on energy exchange processes.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/5702fbe0999f2b9571527c1a73e2b55c_t11_ps04_fall03.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/5702fbe0999f2b9571527c1a73e2b55c_t11_ps04_fall03.pdf
 file_size: 15385
 file_type: application/pdf
 learning_resource_types:

@@ -3,7 +3,7 @@ content_type: resource
 description: 'Review questions and answers about the?
 
   LORANC?navigation?system.'
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/e239a2d653ebbe9c532f9308cfd7917a_sp_S22_mud.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/e239a2d653ebbe9c532f9308cfd7917a_sp_S22_mud.pdf
 file_size: 81172
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/b69d40eb13135dbe78f98e57728742a4_s04_ps05_fall03.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/b69d40eb13135dbe78f98e57728742a4_s04_ps05_fall03.pdf
 file_size: 22370
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a problem on truss design.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/499da874840d0d7431e684f53cbd2373_m01_ps01_spring04.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/499da874840d0d7431e684f53cbd2373_m01_ps01_spring04.pdf
 file_size: 105204
 file_type: application/pdf
 learning_resource_types:

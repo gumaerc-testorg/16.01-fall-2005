@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on the topic of Bernoulli Equation.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/f49cbeb3093a7bde017163e3c605830e_f13_mud.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/f49cbeb3093a7bde017163e3c605830e_f13_mud.pdf
 file_size: 38458
 file_type: application/pdf
 learning_resource_types: []

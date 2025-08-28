@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on double link list,Signals and systems.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/44c57ded7fed04ab0c9ac6f7df8e790a_spring04_pset8.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/44c57ded7fed04ab0c9ac6f7df8e790a_spring04_pset8.pdf
 file_size: 217282
 file_type: application/pdf
 learning_resource_types:

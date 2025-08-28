@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on the topic of Grad review.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/29fa0771085a3889f5a70145a1cc53f1_f07mathgrad_fall.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/29fa0771085a3889f5a70145a1cc53f1_f07mathgrad_fall.pdf
 file_size: 86917
 file_type: application/pdf
 learning_resource_types: []

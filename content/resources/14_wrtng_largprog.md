@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture 14 (2004) presentation.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/8441f8a659127df8940245dcb3b65bc4_14_wrtng_largprog.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/8441f8a659127df8940245dcb3b65bc4_14_wrtng_largprog.pdf
 file_size: 31343
 file_type: application/pdf
 learning_resource_types: []

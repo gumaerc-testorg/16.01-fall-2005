@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Concept questions on Fourier Transform of Complex Exponential.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/36b10f3e0dd385d6037ea01baadfcad5_s17_cgs.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/36b10f3e0dd385d6037ea01baadfcad5_s17_cgs.pdf
 file_size: 68273
 file_type: application/pdf
 learning_resource_types: []

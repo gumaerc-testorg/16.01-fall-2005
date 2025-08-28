@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains notes for Wing Bending Calculations.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/c5f687b07f1a376a5c785aab490c06ef_spl10.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/c5f687b07f1a376a5c785aab490c06ef_spl10.pdf
 file_size: 110984
 file_type: application/pdf
 learning_resource_types: []

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the problem set based on the downwash velocity
   for a rectangular wing.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/80fecf56c257d4f391eb9564ad7e18fc_f05_ps02_spring04.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/80fecf56c257d4f391eb9564ad7e18fc_f05_ps02_spring04.pdf
 file_size: 34931
 file_type: application/pdf
 learning_resource_types:

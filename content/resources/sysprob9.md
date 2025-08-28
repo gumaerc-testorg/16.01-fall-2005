@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the overview and procedures for Airplane Construction.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/15004914510f0ed70d7520017828bf3e_sysprob9.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/15004914510f0ed70d7520017828bf3e_sysprob9.pdf
 file_size: 21342
 file_type: application/pdf
 learning_resource_types: []

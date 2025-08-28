@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set regarding propulsion,Signals and Systems,K-Maps.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/2dd85824aeafc4e539141930d5ab1583_spring04_pset12.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/2dd85824aeafc4e539141930d5ab1583_spring04_pset12.pdf
 file_size: 121139
 file_type: application/pdf
 learning_resource_types:

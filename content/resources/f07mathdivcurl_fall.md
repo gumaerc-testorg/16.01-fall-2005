@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains review on the topics of Div, Curl etc. Also it
   contains information on the topic of Velocity field, Volume outflow, and Circulation.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/3f93639e0916cee73c9d587aadf75db2_f07mathdivcurl_fall.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/3f93639e0916cee73c9d587aadf75db2_f07mathdivcurl_fall.pdf
 file_size: 132182
 file_type: application/pdf
 learning_resource_types: []

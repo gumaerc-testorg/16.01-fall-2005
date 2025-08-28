@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains additional notes for Design Variable Concepts.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/617cd1c9f9fe9d5c28102e101babdd5a_spl4a.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/617cd1c9f9fe9d5c28102e101babdd5a_spl4a.pdf
 file_size: 43825
 file_type: application/pdf
 learning_resource_types: []

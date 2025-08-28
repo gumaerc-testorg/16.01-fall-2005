@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains handwritten solutions to the given problem set
   on possibility of buckling.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/1c954ba49f1ad1febdf41726f2a64325_m13_ps04_sol.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/1c954ba49f1ad1febdf41726f2a64325_m13_ps04_sol.pdf
 file_size: 170462
 file_type: application/pdf
 learning_resource_types:

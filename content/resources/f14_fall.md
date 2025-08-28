@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains infromation on the topic of Incompressible and
   Irrotational Flows.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/a3759b2b2de0c983ea8378dbaf396057_f14_fall.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/a3759b2b2de0c983ea8378dbaf396057_f14_fall.pdf
 file_size: 66507
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Review questions and answers on Thevenin?equivalent?circuit.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/e3f4fbc4a79ef7f77283a26f72fbf53f_S7_mud.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/e3f4fbc4a79ef7f77283a26f72fbf53f_S7_mud.pdf
 file_size: 100343
 file_type: application/pdf
 learning_resource_types: []

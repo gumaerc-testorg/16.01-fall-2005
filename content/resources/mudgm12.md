@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains review questions and answers based on euler buckling,
   transverse loading, and deformation solution.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/d72c29a82ce3c0f1f2bed1b8b116656e_mudgm12.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/d72c29a82ce3c0f1f2bed1b8b116656e_mudgm12.pdf
 file_size: 212507
 file_type: application/pdf
 learning_resource_types: []

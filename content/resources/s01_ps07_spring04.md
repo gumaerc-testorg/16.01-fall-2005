@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains problems on signals and systems.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/f0cf12eb74c024a70126ada8704121d8_s01_ps07_spring04.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/f0cf12eb74c024a70126ada8704121d8_s01_ps07_spring04.pdf
 file_size: 52294
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problems based on structural and aerodynamic merits
   of straight vs. tapered wings.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/fae88838ebc7c1859febda104a1ea23d_m10_ps04_spring04.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/fae88838ebc7c1859febda104a1ea23d_m10_ps04_spring04.pdf
 file_size: 55385
 file_type: application/pdf
 learning_resource_types:

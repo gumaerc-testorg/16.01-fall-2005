@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides solutions to the problem set on on choices of
   most promising material for constructing a wing for a small unmanned aerial vehicle
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/dc8f9dc771aff0ee8e338b3589e2b82e_m22_ps14_sol.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/dc8f9dc771aff0ee8e338b3589e2b82e_m22_ps14_sol.pdf
 file_size: 22196
 file_type: application/pdf
 learning_resource_types:

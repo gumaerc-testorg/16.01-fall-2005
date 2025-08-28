@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains handwritten solutions to the given problem set
   on physically-possible flows.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/6893163e5e564f68d48d9eea0f589bf4_f16_ps13_sol.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/6893163e5e564f68d48d9eea0f589bf4_f16_ps13_sol.pdf
 file_size: 38705
 file_type: application/pdf
 learning_resource_types:

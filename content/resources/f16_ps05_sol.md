@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains handwritten solutions to the given problem set
   on stagnation pressure.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/f4932930e414af4823852452aa6febd4_f16_ps05_sol.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/f4932930e414af4823852452aa6febd4_f16_ps05_sol.pdf
 file_size: 28062
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains review questions and answers based on bars, displacement
   diagram, collinear, constitutive law and forces.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/c73c95b3b159083f73c713dca525c740_mudzm9.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/c73c95b3b159083f73c713dca525c740_mudzm9.pdf
 file_size: 91320
 file_type: application/pdf
 learning_resource_types: []

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the problem set based on the dimensionless parameters
   and the drag coefficient.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/0d7a026e116ed9cc7e6892b0f964756e_f04_ps09_fall03.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/0d7a026e116ed9cc7e6892b0f964756e_f04_ps09_fall03.pdf
 file_size: 29049
 file_type: application/pdf
 learning_resource_types:

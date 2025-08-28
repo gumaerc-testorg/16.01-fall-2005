@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains concept questions and answers based on strength
   of metal.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/2d81ef47f7cee1ec204d02dfdd4c6125_prsm17.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/2d81ef47f7cee1ec204d02dfdd4c6125_prsm17.pdf
 file_size: 26339
 file_type: application/pdf
 learning_resource_types: []

@@ -2,7 +2,7 @@
 content_type: resource
 description: This file discusses about what are the steps in the node method, the
   steps in the loop method. Further it also describe about number of independent loops.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/188228dac72f55ee8e375f5f04164e05_node_loop_meth.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/188228dac72f55ee8e375f5f04164e05_node_loop_meth.pdf
 file_size: 82522
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/56af7988e969ea2c13e515d1083d0c97_PropQuiz2004solnsa.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/56af7988e969ea2c13e515d1083d0c97_PropQuiz2004solnsa.pdf
 file_size: 321554
 file_type: application/pdf
 learning_resource_types: []

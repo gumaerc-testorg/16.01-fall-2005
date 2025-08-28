@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains notes for Equivalent Dihedral Angle.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/ca01d7e9b5368501925496732c787126_spl8c.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/ca01d7e9b5368501925496732c787126_spl8c.pdf
 file_size: 44857
 file_type: application/pdf
 learning_resource_types: []

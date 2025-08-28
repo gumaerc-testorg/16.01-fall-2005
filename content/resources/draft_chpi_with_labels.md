@@ -2,7 +2,7 @@
 content_type: resource
 description: An abstracted aircraft wing with illustrated systems. (Image courtesy
   of OCW.)
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/03cbd5eb1396c3cbe59f572645bbb6cc_draft_chpi_with_labels.jpg
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/03cbd5eb1396c3cbe59f572645bbb6cc_draft_chpi_with_labels.jpg
 file_size: 59842
 file_type: image/jpeg
 image_metadata:

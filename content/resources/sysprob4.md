@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the lab exercise for Water Bottle Rocket Build and
   Test.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/44916949a807c3a6d4eefef2d490679b_sysprob4.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/44916949a807c3a6d4eefef2d490679b_sysprob4.pdf
 file_size: 144462
 file_type: application/pdf
 learning_resource_types: []
