@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains one problem on sea-level wind speed.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/5ee7bce2ae09f5b68fd504d2fe34c752_f13_ps12_fall03.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/5ee7bce2ae09f5b68fd504d2fe34c752_f13_ps12_fall03.pdf
 file_size: 33449
 file_type: application/pdf
 learning_resource_types:

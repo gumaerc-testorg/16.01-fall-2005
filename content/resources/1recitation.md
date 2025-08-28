@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation for recitation.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/aff8a7a161c9440bb0670b0448859613_1recitation.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/aff8a7a161c9440bb0670b0448859613_1recitation.pdf
 file_size: 29608
 file_type: application/pdf
 learning_resource_types: []

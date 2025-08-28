@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/b93dde0a1eb59e39cd1463c7df97023a_thermo2003quizsol.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/b93dde0a1eb59e39cd1463c7df97023a_thermo2003quizsol.pdf
 file_size: 73029
 file_type: application/pdf
 learning_resource_types: []

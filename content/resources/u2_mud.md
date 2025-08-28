@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the review of 'Muddy Points' from the course. The
   review had 51 student respondents.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/4fd8e98344e9ee1470d835ee55d39515_u2_mud.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/4fd8e98344e9ee1470d835ee55d39515_u2_mud.pdf
 file_size: 51672
 file_type: application/pdf
 learning_resource_types: []

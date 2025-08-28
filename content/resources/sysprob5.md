@@ -6,7 +6,7 @@ description: This file contains the exercise which contains Test a three-dimensi
   loads in the internal bars/members; (d) Compare the loads to values from analysis
   of a two-dimensional model of the truss; (e) Write a short laboratory report documenting
   your findings.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/15569ea4c1a5e3d201c368fe044897dc_sysprob5.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/15569ea4c1a5e3d201c368fe044897dc_sysprob5.pdf
 file_size: 327625
 file_type: application/pdf
 learning_resource_types: []

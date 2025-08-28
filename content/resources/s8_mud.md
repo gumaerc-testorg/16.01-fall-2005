@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Review questions and answers on capacitive?circuits.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/c1c69576765004736aca0f90c45d8b03_S8_mud.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/c1c69576765004736aca0f90c45d8b03_S8_mud.pdf
 file_size: 108055
 file_type: application/pdf
 learning_resource_types: []

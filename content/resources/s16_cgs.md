@@ -2,7 +2,7 @@
 content_type: resource
 description: Concept questions on Fourier Transform of Step I and Fourier Transform
   of Step I.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/d4faa0da28abe711b40b45ba86fe4abc_s16_cgs.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/d4faa0da28abe711b40b45ba86fe4abc_s16_cgs.pdf
 file_size: 46240
 file_type: application/pdf
 learning_resource_types: []

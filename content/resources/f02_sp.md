@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information on the topic of airfoil vortex sheet
   models and thin-airfoil analysis problem.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/8526c02c3425c38a434d5c77172c9a6d_f02_sp.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/8526c02c3425c38a434d5c77172c9a6d_f02_sp.pdf
 file_size: 107505
 file_type: application/pdf
 learning_resource_types: []

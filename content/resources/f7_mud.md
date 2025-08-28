@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information on the topic of Momentum Flow and
   Momentum Conservation.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/8daebd699e851c237fd46a288ad392df_f7_mud.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/8daebd699e851c237fd46a288ad392df_f7_mud.pdf
 file_size: 46980
 file_type: application/pdf
 learning_resource_types: []

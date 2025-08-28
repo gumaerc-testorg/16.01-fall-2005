@@ -2,7 +2,7 @@
 content_type: resource
 description: This file includes solutions to problems on Pi products, Reynolds and
   Mach numbers, eigenvalues?and?eigenvectors, and method of joints.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/98ba7a4120363cb84e4ac85da2dc1fb4_pset9_sol.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/98ba7a4120363cb84e4ac85da2dc1fb4_pset9_sol.pdf
 file_size: 389039
 file_type: application/pdf
 learning_resource_types:

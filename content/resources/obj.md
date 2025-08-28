@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains scope, learning objectives, measurable outcomes and
   assessment strategy for this course.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/fc1d866db1c95ccd131b84abada92d27_obj.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/fc1d866db1c95ccd131b84abada92d27_obj.pdf
 file_size: 31257
 file_type: application/pdf
 learning_resource_types: []

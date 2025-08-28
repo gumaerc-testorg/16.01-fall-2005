@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problems on mach number and shocks.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/7e67e723a909d02cf1ec99d0ee3fd222_f20_ps07_spring04.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/7e67e723a909d02cf1ec99d0ee3fd222_f20_ps07_spring04.pdf
 file_size: 64149
 file_type: application/pdf
 learning_resource_types:

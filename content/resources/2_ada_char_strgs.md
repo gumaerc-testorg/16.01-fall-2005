@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture 2 (2004) presentation.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/7805921f5e1a3a93a3b0f15aecf87444_2_ada_char_strgs.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/7805921f5e1a3a93a3b0f15aecf87444_2_ada_char_strgs.pdf
 file_size: 40339
 file_type: application/pdf
 learning_resource_types: []

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains handwritten solutions to the given problem set
   on vortex flow and uniform flow.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/c249434ac9abf445daff18ca6bad415e_f17_ps13_sol.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/c249434ac9abf445daff18ca6bad415e_f17_ps13_sol.pdf
 file_size: 53458
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problems oh physically-possible flows.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/a7bd170f1c132e986933e633e77ede95_fall_2003_pset13.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/a7bd170f1c132e986933e633e77ede95_fall_2003_pset13.pdf
 file_size: 136912
 file_type: application/pdf
 learning_resource_types:

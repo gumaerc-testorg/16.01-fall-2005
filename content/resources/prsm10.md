@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains concept questions and answers based on torsional
   loading, components of strain and shear stresses.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/2d50afbcb9a025dadcb6db7107a87d97_prsm10.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/2d50afbcb9a025dadcb6db7107a87d97_prsm10.pdf
 file_size: 122361
 file_type: application/pdf
 learning_resource_types: []

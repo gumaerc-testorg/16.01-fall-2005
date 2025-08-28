@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problems related to calculating the forces in
   the bars of a truss.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/6ff4d3c0a1a05ac6bd14797d513ae8f4_m07_ps09_fall03.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/6ff4d3c0a1a05ac6bd14797d513ae8f4_m07_ps09_fall03.pdf
 file_size: 45862
 file_type: application/pdf
 learning_resource_types:

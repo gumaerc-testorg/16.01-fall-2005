@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to problem set.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/030e7ce9f3c8fc9e4aa145f2fa0170e3_s04_ps08_sol.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/030e7ce9f3c8fc9e4aa145f2fa0170e3_s04_ps08_sol.pdf
 file_size: 90506
 file_type: application/pdf
 learning_resource_types:

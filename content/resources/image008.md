@@ -2,7 +2,7 @@
 content_type: resource
 description: Reflective Memo from Fall 2003. This image accompanies the Reflective
   Memo webpage.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/e6ee161ea88d6e00ec28526e2898336c_image008.gif
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/e6ee161ea88d6e00ec28526e2898336c_image008.gif
 file_size: 3153
 file_type: image/gif
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains the objectives, procedures for the exercise: Basic
   Airplane Configuration Design.'
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/3c3fb46af452653e4616e1918c63f218_sysprob8.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/3c3fb46af452653e4616e1918c63f218_sysprob8.pdf
 file_size: 34571
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample lab report table.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/4db43a3fa76ba8ad1ef84d550b629095_sample_frdiarrc.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/4db43a3fa76ba8ad1ef84d550b629095_sample_frdiarrc.pdf
 file_size: 24735
 file_type: application/pdf
 learning_resource_types: []

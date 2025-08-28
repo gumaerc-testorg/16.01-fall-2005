@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains notes for improved performance estimates for optimization.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/32c9dff969ee8cbff94eb44d1f2cd898_spl7.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/32c9dff969ee8cbff94eb44d1f2cd898_spl7.pdf
 file_size: 59836
 file_type: application/pdf
 learning_resource_types: []

@@ -2,7 +2,7 @@
 content_type: resource
 description: This file includes solutions to problems on unified computers and programming,
   and signals?and?systems.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/0319dce2e189876be3f8d1563bcebb91_pset5_sol.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/0319dce2e189876be3f8d1563bcebb91_pset5_sol.pdf
 file_size: 317112
 file_type: application/pdf
 learning_resource_types:

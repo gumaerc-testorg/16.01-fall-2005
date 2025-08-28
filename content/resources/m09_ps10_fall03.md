@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains a problem related to determining the deflection
   of a point under a 10kN load, and the force-displacement relationship for the bars.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/486baef6d35b4c30cc4735608640073c_m09_ps10_fall03.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/486baef6d35b4c30cc4735608640073c_m09_ps10_fall03.pdf
 file_size: 109838
 file_type: application/pdf
 learning_resource_types:

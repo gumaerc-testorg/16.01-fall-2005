@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains solutions to problem set on representing strains
   as a matrix to calculate the principal strains and principal directions via the
   eigenvalue and eigenvectorsof the matrix.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/0dcf9a3d2def3b5a5f2fd8245623088a_m17_ps13_sol.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/0dcf9a3d2def3b5a5f2fd8245623088a_m17_ps13_sol.pdf
 file_size: 34387
 file_type: application/pdf
 learning_resource_types:

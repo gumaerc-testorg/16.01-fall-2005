@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture 19 (2004) presentation.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/1187ce38e8ccccd5d2679a3b604f3b59_19_evenmorelogic.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/1187ce38e8ccccd5d2679a3b604f3b59_19_evenmorelogic.pdf
 file_size: 61140
 file_type: application/pdf
 learning_resource_types: []

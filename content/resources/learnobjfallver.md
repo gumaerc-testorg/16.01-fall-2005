@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Learning Objectives for 16.01-16.02 Computers and Programming.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/e20555128399efc07d6b0a267bead555_learnobjfallver.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/e20555128399efc07d6b0a267bead555_learnobjfallver.pdf
 file_size: 19355
 file_type: application/pdf
 learning_resource_types: []

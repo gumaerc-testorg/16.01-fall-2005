@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains a problem of finding the critical value of a load
   P, that will cause collapse of a particular assembly.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/a3d68e10e0e8fbff07491818d3d4ebac_m12_ps04_spring04.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/a3d68e10e0e8fbff07491818d3d4ebac_m12_ps04_spring04.pdf
 file_size: 98847
 file_type: application/pdf
 learning_resource_types:

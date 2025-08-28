@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on the topics of Vortex and Lifting
   Flow.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/52b148916995923bec75c35a36deedd0_f16_fall.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/52b148916995923bec75c35a36deedd0_f16_fall.pdf
 file_size: 292581
 file_type: application/pdf
 learning_resource_types: []

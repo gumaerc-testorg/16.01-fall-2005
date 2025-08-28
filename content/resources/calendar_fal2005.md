@@ -3,7 +3,7 @@ content_type: resource
 description: Course calendar. Due to the complexity of the calendars, detailed explanations
   of the course format and a calendar key are provided prior to the presentation of
   the calendars.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/3e0dedf9d04e28e3f6c4a5146eb8102f_calendar_fal2005.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/3e0dedf9d04e28e3f6c4a5146eb8102f_calendar_fal2005.pdf
 file_size: 68373
 file_type: application/pdf
 learning_resource_types: []

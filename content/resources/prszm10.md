@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains concept questions and answers based on bar truss
   under consideration and force.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/d0cbf88d4ff4439ce4e6c64552cf4565_prszm10.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/d0cbf88d4ff4439ce4e6c64552cf4565_prszm10.pdf
 file_size: 123677
 file_type: application/pdf
 learning_resource_types: []

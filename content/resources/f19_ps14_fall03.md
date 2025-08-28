@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problems on Cp variation.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/24cf17cfec3a52a3a34cd03d9b2cac03_f19_ps14_fall03.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/24cf17cfec3a52a3a34cd03d9b2cac03_f19_ps14_fall03.pdf
 file_size: 32656
 file_type: application/pdf
 learning_resource_types:

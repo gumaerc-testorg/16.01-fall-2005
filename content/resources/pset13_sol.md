@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problem set with solutions provided by the professor.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/9832b9379f4f128b1e3f3cda0f4ad4cb_pset13_sol.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/9832b9379f4f128b1e3f3cda0f4ad4cb_pset13_sol.pdf
 file_size: 128839
 file_type: application/pdf
 learning_resource_types:

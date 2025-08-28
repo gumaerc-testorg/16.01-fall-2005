@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set solutions based on atmospheric pressure.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/c6c4237c92aedc69ace427291c44ec56_P6sol.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/c6c4237c92aedc69ace427291c44ec56_P6sol.pdf
 file_size: 21731
 file_type: application/pdf
 learning_resource_types: []

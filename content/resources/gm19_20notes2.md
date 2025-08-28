@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture notes on Fatigue and Fracture and M20: Other Factors in Materials
   Selection and Design.'
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/f46ab73b31f6a4622ba62ab4e5366e95_gm19_20notes2.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/f46ab73b31f6a4622ba62ab4e5366e95_gm19_20notes2.pdf
 file_size: 485647
 file_type: application/pdf
 learning_resource_types: []

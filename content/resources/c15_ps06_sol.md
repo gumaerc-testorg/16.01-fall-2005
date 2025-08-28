@@ -2,7 +2,7 @@
 content_type: resource
 description: This handout contains the solutions for the Problem set based on the
   matrix package and non-invertible matrices.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/a580f9044dba6955d8c7a208592c9007_c15_ps06_sol.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/a580f9044dba6955d8c7a208592c9007_c15_ps06_sol.pdf
 file_size: 35483
 file_type: application/pdf
 learning_resource_types:

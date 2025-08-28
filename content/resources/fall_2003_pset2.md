@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problems on unified thermodynamics and unified
   computers and programming.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/3eda7280c1d20891dd3419bb1350ffba_fall_2003_pset2.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/3eda7280c1d20891dd3419bb1350ffba_fall_2003_pset2.pdf
 file_size: 82501
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This handout contains the course calendar.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/8929177117ad02b1d92c5ffb394ad52c_UnifiedSchedule_S04.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/8929177117ad02b1d92c5ffb394ad52c_UnifiedSchedule_S04.pdf
 file_size: 71274
 file_type: application/pdf
 learning_resource_types: []

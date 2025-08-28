@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the evaluation for the subject contents.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/acfe5491daff2e87605ff015b30a4fcd_FT03SEF.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/acfe5491daff2e87605ff015b30a4fcd_FT03SEF.pdf
 file_size: 313215
 file_type: application/pdf
 learning_resource_types: []

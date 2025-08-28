@@ -2,7 +2,7 @@
 content_type: resource
 description: This handout contains the solutions for the Problem set based on stacks,
   queues and palindrome.
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/a68c817f3bd80f9a734eb5332852580d_cp2_4_ps07_sol.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/a68c817f3bd80f9a734eb5332852580d_cp2_4_ps07_sol.pdf
 file_size: 58794
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains exercise for the topic: Water Bottle Rocket Performance
   Analysis.'
-file: /courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/a3334ac9fba24d4d4d7ddc8b437cdf1b_sysprob3.pdf
+file: /ol-ocw-studio-app/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/a3334ac9fba24d4d4d7ddc8b437cdf1b_sysprob3.pdf
 file_size: 416371
 file_type: application/pdf
 learning_resource_types: []
